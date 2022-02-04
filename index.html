@@ -25,6 +25,12 @@
 		<link href="https://stephenhouser.com/css/main.css" rel="stylesheet">
 
 		<style>
+			.game-image {
+				min-height: 100px;
+				min-width: 100px;
+				max-width: 10%;
+
+			}
 			.container {
 				margin-top: 1em;
 			}
@@ -64,7 +70,7 @@
 					<thead>
 						<tr>
 							<th>Date</th>
-							<th width="10%"></th>
+							<th></th>
 							<th>Game</th>
 							<th>Players</th>
 							<th>Location</th>
@@ -74,7 +80,7 @@
 					<tfoot>
 						<tr>
 							<th>Date</th>
-							<th width="10%"></th>
+							<th></th>
 							<th>Game</th>
 							<th>Players</th>
 							<th>Location</th>
@@ -90,7 +96,7 @@
 				<table id="game-list" class="display" cellspacing="0" width="100%">
 					<thead>
 						<tr>
-							<th width="10%"></th>
+							<th></th>
 							<th>Game</th>
 							<th>Year</th>
 							<th>Plays</th>
@@ -99,7 +105,7 @@
 					</thead>
 					<tfoot>
 						<tr>
-							<th width="10%"></th>
+							<th></th>
 							<th>Game</th>
 							<th>Year</th>
 							<th>Plays</th>
@@ -186,12 +192,21 @@
 			}
 
 			function bgg_image(game) {
-				return "";
+				const img_id = 'img_' + game.bgg_id;
+				$.ajax({
+  					url: "https://boardgamegeek.com/xmlapi2/thing?id=" + game.bgg_id,
+				}).done(function(xml) {
+					const src = xml.querySelector('thumbnail').textContent;
+  					$('.' + img_id).attr('src', src);
+				}).fail(function(err) {
+					console.log(err);
+				})
+
+				return '<img class="game-image ' + img_id + '" />';
 			}
 
 			function render_date(the_date) {
 				const d = new Date(the_date + "T00:00:00");
-				// let options = { year: 'numeric', month: 'numeric', day: 'numeric', weekday: 'long',  };
 				return the_date + ' '
 					+ d.toLocaleDateString('en-US', { weekday: 'long'} ); 
 			}
@@ -210,7 +225,7 @@
 					"order": [[0, "desc"]],
 					"columns": [
 						{ "data": "date" },
-						{ "data": null, "width": "12%", "defaultContent": "", "orderable": false },
+						{ "data": null, "defaultContent": "", "orderable": false },
 						{ "data": "name" },
 						{ "data": "players", "defaultContent": "" },
 						{ "data": "location" },
@@ -229,8 +244,7 @@
 							"responsivePriority": 2,
 							"render": function(data, type, row) {
 								return "<a href='" + bgg_uri(row) + "' target='_blank'>"
-									+ "<img  src='" + bgg_image(row) + "' />"
-									+ "</a>";
+									+ bgg_image(row) + "</a>";
 							}
 						},
 						{
@@ -254,7 +268,7 @@
 					"paging": false,
 					"order": [[0, "desc"]],
 					"columns": [
-						{ "data": "image", "width": "12%", "defaultContent": "", "orderable": false },
+						{ "data": "image", "width": "10%", "defaultContent": "", "orderable": false },
 						{ "data": "name" },
 						{ "data": "year", "defaultContent": "" },
 						{ "data": "plays" },
@@ -265,7 +279,7 @@
 							"targets": 0,
 							"render": function(data, type, row) {
 								return "<a href='" + bgg_uri(row) + "' target='_blank'>"
-									+ "<img  src='" + data + "' />"
+									+ '<img class="game-image" src="' + data + '" />'
 									+ "</a>";
 							}
 						},
