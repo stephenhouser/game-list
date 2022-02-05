@@ -1,826 +1,1246 @@
-<?xml version="1.0" encoding="utf-8"?>
-<plays username="0xACE" userid="1524036" total="85" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-	<play id="58044313" date="2022-02-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Cribbage" objecttype="thing" objectid="2398">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="58044325" date="2022-02-03" quantity="1" length="120" incomplete="0" nowinstats="0" location="Home">
-		<item name="Root" objecttype="thing" objectid="237182">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>cat=stephen, birds=zack, mouse=shawn</comments>
-		<players>
-			<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="57946888" date="2022-01-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Gloomhaven: Jaws of the Lion" objecttype="thing" objectid="291457">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-		<comments>Scenario 4. Shawn and Brie both exhausted, I had 1 turn left when we cleared the last Zealot.</comments>
-	</play>
-	<play id="57917840" date="2022-01-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Justice League: Axis of Villains Strategy Game" objecttype="thing" objectid="141725">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="57917819" date="2022-01-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Kenny G: Keepin&#039; It Saxy Game" objecttype="thing" objectid="283217">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="57917810" date="2022-01-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Qwixx" objecttype="thing" objectid="131260">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="57917778" date="2022-01-20" quantity="1" length="60" incomplete="0" nowinstats="0" location="Home">
-		<item name="Forbidden Desert" objecttype="thing" objectid="136063">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="57404831" date="2022-01-13" quantity="1" length="90" incomplete="0" nowinstats="0" location="Home">
-		<item name="Azul: Stained Glass of Sintra" objecttype="thing" objectid="256226">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-			</subtypes>
-		</item>
-		<comments>won</comments>
-		<players>
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="57745664" date="2022-01-13" quantity="2" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Deer in the Headlights Game" objecttype="thing" objectid="126207">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="57404844" date="2022-01-13" quantity="2" length="120" incomplete="0" nowinstats="0" location="Home">
-		<item name="Marvel Fluxx" objecttype="thing" objectid="272541">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-			</subtypes>
-		</item>
-		<comments>Rob’s game, won one lost one</comments>
-		<players>
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="91" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="58044313" date="2022-02-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Cribbage" objecttype="thing" objectid="2398">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="58044325" date="2022-02-03" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Root" objecttype="thing" objectid="237182">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>cat=stephen, birds=zack, mouse=shawn</comments>
+									<players>
+									<player username="" userid="0" name="Shawn" startposition="" color="green" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="blue" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="orange" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="57946888" date="2022-01-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Gloomhaven: Jaws of the Lion" objecttype="thing" objectid="291457">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>Scenario 4. Shawn and Brie both exhausted, I had 1 turn left when we cleared the last Zealot.</comments>
+									<players>
+									<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="57917840" date="2022-01-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Justice League: Axis of Villains Strategy Game" objecttype="thing" objectid="141725">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="57917819" date="2022-01-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Kenny G: Keepin&#039; It Saxy Game" objecttype="thing" objectid="283217">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="57917810" date="2022-01-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Qwixx" objecttype="thing" objectid="131260">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="57917778" date="2022-01-20" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Forbidden Desert" objecttype="thing" objectid="136063">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="57404831" date="2022-01-13" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Azul: Stained Glass of Sintra" objecttype="thing" objectid="256226">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+						<comments>won</comments>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="57745664" date="2022-01-13" quantity="2" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Deer in the Headlights Game" objecttype="thing" objectid="126207">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="57404844" date="2022-01-13" quantity="2" length="120" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Marvel Fluxx" objecttype="thing" objectid="272541">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+						<comments>Rob’s game, won one lost one</comments>
+									<players>
+									<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="58061350" date="2021-12-19" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Gloomhaven: Jaws of the Lion" objecttype="thing" objectid="291457">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>Scenario 3</comments>
+									<players>
+									<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="56486411" date="2021-12-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
-		<item name="Dune" objecttype="thing" objectid="283355">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-			</subtypes>
-		</item>
-		<comments>patrick&amp; russ, fabian&amp;rob, me&amp; matt; empire/fremen alliance won</comments>
-	</play>
-	<play id="56486429" date="2021-12-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Cat Lady" objecttype="thing" objectid="228504">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="56486464" date="2021-12-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Stratego" objecttype="thing" objectid="1917">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="56486489" date="2021-12-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Terrace" objecttype="thing" objectid="2872">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="56486447" date="2021-12-09" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Pirates of the 7 Seas" objecttype="thing" objectid="172613">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="55763610" date="2021-11-19" quantity="1" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Marvel Champions: The Card Game" objecttype="thing" objectid="285774">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>we beat Rhino this time.</comments>
-	</play>
-	<play id="55763629" date="2021-11-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Choose Your Own Adventure: House of Danger" objecttype="thing" objectid="251420">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="55744102" date="2021-11-11" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Pan Am" objecttype="thing" objectid="303057">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="55744095" date="2021-11-11" quantity="4" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Vampire" objecttype="thing" objectid="497">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="55565275" date="2021-11-04" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="5-Minute Dungeon" objecttype="thing" objectid="207830">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>Lost on boss 5</comments>
-	</play>
-	<play id="55565243" date="2021-11-04" quantity="2" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Bob Ross: Art of Chill Game" objecttype="thing" objectid="231696">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="55565268" date="2021-11-04" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Labyrinth" objecttype="thing" objectid="1219">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="55133048" date="2021-10-21" quantity="1" length="150" incomplete="0" nowinstats="0" location="Home">
-		<item name="Mansions of Madness: Second Edition" objecttype="thing" objectid="205059">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-			</subtypes>
-		</item>
-		<comments>A few rules violations, but we won. Or at least everyone but me.</comments>
-		<players>
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="55133087" date="2021-10-21" quantity="3" length="60" incomplete="0" nowinstats="0" location="Home">
-		<item name="Red7" objecttype="thing" objectid="161417">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="55133074" date="2021-10-14" quantity="1" length="90" incomplete="0" nowinstats="0" location="Home">
-		<item name="Bunny Kingdom" objecttype="thing" objectid="184921">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
+			<item name="Dune" objecttype="thing" objectid="283355">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+						<comments>patrick&amp; russ, fabian&amp;rob, me&amp; matt; empire/fremen alliance won</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob S." startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Fabian" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="56486429" date="2021-12-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Cat Lady" objecttype="thing" objectid="228504">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="56486464" date="2021-12-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Stratego" objecttype="thing" objectid="1917">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="1" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="56486489" date="2021-12-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Terrace" objecttype="thing" objectid="2872">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="1" />
+						</players>
+					</play>
+	<play id="56486447" date="2021-12-09" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Pirates of the 7 Seas" objecttype="thing" objectid="172613">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="1" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="55763610" date="2021-11-19" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Marvel Champions: The Card Game" objecttype="thing" objectid="285774">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>we beat Rhino this time.</comments>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="55763629" date="2021-11-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Choose Your Own Adventure: House of Danger" objecttype="thing" objectid="251420">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>2 Scenarios</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="55744102" date="2021-11-11" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Pan Am" objecttype="thing" objectid="303057">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>1st time</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="55744095" date="2021-11-11" quantity="4" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Vampire" objecttype="thing" objectid="497">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Rob&apos;s game</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="1" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="55565275" date="2021-11-04" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="5-Minute Dungeon" objecttype="thing" objectid="207830">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Lost on boss 5</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="55565243" date="2021-11-04" quantity="2" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Bob Ross: Art of Chill Game" objecttype="thing" objectid="231696">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="55565268" date="2021-11-04" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Labyrinth" objecttype="thing" objectid="1219">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="55133048" date="2021-10-21" quantity="1" length="150" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Mansions of Madness: Second Edition" objecttype="thing" objectid="205059">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+						<comments>A few rules violations, but we won. Or at least everyone but me.</comments>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="55133087" date="2021-10-21" quantity="3" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Red7" objecttype="thing" objectid="161417">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="55133074" date="2021-10-14" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Bunny Kingdom" objecttype="thing" objectid="184921">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="1" />
+						</players>
+					</play>
+	<play id="58061340" date="2021-10-13" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Gloomhaven: Jaws of the Lion" objecttype="thing" objectid="291457">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>Scenario 2</comments>
+									<players>
+									<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="58061323" date="2021-10-09" quantity="1" length="150" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Gloomhaven: Jaws of the Lion" objecttype="thing" objectid="291457">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>Scenario 1</comments>
+									<players>
+									<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="54667350" date="2021-10-02" quantity="1" length="0" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
-		<item name="Endeavor: Age of Sail" objecttype="thing" objectid="233398">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="54667335" date="2021-09-23" quantity="5" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Hearts" objecttype="thing" objectid="6887">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="53675616" date="2021-08-19" quantity="4" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Azul" objecttype="thing" objectid="230802">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="53675611" date="2021-08-19" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Ticket to Ride: Europe" objecttype="thing" objectid="14996">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="53675625" date="2021-08-19" quantity="4" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Timeline: General Interest" objecttype="thing" objectid="131325">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="52849768" date="2021-07-15" quantity="2" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Azul" objecttype="thing" objectid="230802">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="52849788" date="2021-07-15" quantity="3" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Blokus" objecttype="thing" objectid="2453">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="52849798" date="2021-07-15" quantity="3" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Snappy Dressers" objecttype="thing" objectid="220199">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="52693240" date="2021-07-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Cat Lady" objecttype="thing" objectid="228504">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="52693224" date="2021-07-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Munchkin Steampunk" objecttype="thing" objectid="164031">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="52694322" date="2021-07-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Qwirkle" objecttype="thing" objectid="25669">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="52693234" date="2021-07-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Silent But Deadly" objecttype="thing" objectid="138578">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="52656396" date="2021-07-01" quantity="4" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Red7" objecttype="thing" objectid="161417">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="52656381" date="2021-07-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Wonder Woman: Challenge of the Amazons" objecttype="thing" objectid="302193">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>we won. Seemed like we were going to lose, then in one round it just all came together and we slaughtered Cheeta.</comments>
-		<players>
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="52385305" date="2021-06-24" quantity="3" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="The Mind" objecttype="thing" objectid="244992">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>Level 5 was our best</comments>
-		<players>
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="52385161" date="2021-06-24" quantity="1" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Rise of Tribes" objecttype="thing" objectid="202583">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-		<comments>Don&apos;t like the starting position, e.g. 1st player (me) gets screwed, no resources, limited position.</comments>
-		<players>
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="52232836" date="2021-06-17" quantity="1" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Marvel Champions: The Card Game" objecttype="thing" objectid="285774">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>Lost</comments>
-		<players>
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="52232827" date="2021-06-17" quantity="2" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Timeline: General Interest" objecttype="thing" objectid="131325">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="52133886" date="2021-06-12" quantity="1" length="270" incomplete="0" nowinstats="0" location="Home">
-		<item name="Struggle of Empires" objecttype="thing" objectid="9625">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>Ended at phase 6 of war 3. Shawn, me, Patrick, mark</comments>
-	</play>
-	<play id="52051952" date="2021-06-08" quantity="1" length="90" incomplete="0" nowinstats="0" location="Home">
-		<item name="Bunny Kingdom" objecttype="thing" objectid="184921">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>Rob won, I got last place :-(</comments>
-		<players>
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="52051961" date="2021-06-08" quantity="6" length="90" incomplete="0" nowinstats="0" location="Home">
-		<item name="Codenames" objecttype="thing" objectid="178900">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="51660442" date="2021-05-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Exploding Kittens: NSFW Deck" objecttype="thing" objectid="172242">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="51660445" date="2021-05-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Pandemic" objecttype="thing" objectid="30549">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="51497228" date="2021-05-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Catan" objecttype="thing" objectid="13">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="51497226" date="2021-05-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Infinity Gauntlet: A Love Letter Game" objecttype="thing" objectid="304285">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="51655862" date="2021-05-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Arkham Horror (Third Edition)" objecttype="thing" objectid="257499">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-			</subtypes>
-		</item>
-		<comments>Still playing 2 week later. Took 2+ hours to setup and now 6 hours into the game. Postponed playing last week (after two weeks). Finished on 5/27/21</comments>
-		<players>
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="51068737" date="2021-04-29" quantity="1" length="60" incomplete="0" nowinstats="0" location="">
-		<item name="Suspicion" objecttype="thing" objectid="204886">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>Rob, Meredith, Zack</comments>
-	</play>
-	<play id="51068716" date="2021-04-29" quantity="1" length="90" incomplete="0" nowinstats="0" location="Home">
-		<item name="Ticket to Ride: Germany" objecttype="thing" objectid="225244">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-			</subtypes>
-		</item>
-		<comments>Rob, Meredith, Zack</comments>
-	</play>
-	<play id="51068758" date="2021-04-29" quantity="1" length="60" incomplete="0" nowinstats="0" location="">
-		<item name="Trash Pandas" objecttype="thing" objectid="216439">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>Rob, Meredith, Zack</comments>
-	</play>
-	<play id="50677254" date="2021-04-13" quantity="1" length="120" incomplete="0" nowinstats="0" location="Home">
-		<item name="Jurassic World: The Boardgame" objecttype="thing" objectid="260329">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>first time</comments>
-	</play>
-	<play id="50677233" date="2021-04-11" quantity="1" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Trash Pandas" objecttype="thing" objectid="216439">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="40875183" date="2020-02-08" quantity="1" length="300" incomplete="0" nowinstats="0" location="">
-		<item name="Railways of the World" objecttype="thing" objectid="17133">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-		<comments>6 players, eastern and western us on custom neoprene map (Russ) at Maine wargamers meeting</comments>
-	</play>
+			<item name="Endeavor: Age of Sail" objecttype="thing" objectid="233398">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+						<comments>Happy to play a sail/shipping game. Wish there was more shipping and cargo mechanics and less fortifications and land-battle.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="54667335" date="2021-09-23" quantity="5" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Hearts" objecttype="thing" objectid="6887">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>How fun to play an old game.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="53675616" date="2021-08-19" quantity="4" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Azul" objecttype="thing" objectid="230802">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>What fun, played more times...</comments>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="53675611" date="2021-08-19" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Ticket to Ride: Europe" objecttype="thing" objectid="14996">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="53675625" date="2021-08-19" quantity="4" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Timeline: General Interest" objecttype="thing" objectid="131325">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>Always good for a quickie!</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="52849768" date="2021-07-15" quantity="2" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Azul" objecttype="thing" objectid="230802">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="52849788" date="2021-07-15" quantity="3" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Blokus" objecttype="thing" objectid="2453">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Zack&apos;s game</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="52849798" date="2021-07-15" quantity="3" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Snappy Dressers" objecttype="thing" objectid="220199">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Zack&apos;s game</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="52693240" date="2021-07-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Cat Lady" objecttype="thing" objectid="228504">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>A fun easy to learn and quick game</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="52693224" date="2021-07-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Munchkin Steampunk" objecttype="thing" objectid="164031">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="52694322" date="2021-07-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Qwirkle" objecttype="thing" objectid="25669">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Zack&apos;s game</comments>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="52693234" date="2021-07-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Silent But Deadly" objecttype="thing" objectid="138578">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Definitely a teenager&apos;s game</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="52656396" date="2021-07-01" quantity="4" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Red7" objecttype="thing" objectid="161417">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>A good change it up card game.</comments>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="52656381" date="2021-07-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Wonder Woman: Challenge of the Amazons" objecttype="thing" objectid="302193">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>we won. Seemed like we were going to lose, then in one round it just all came together and we slaughtered Cheeta.</comments>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="52385305" date="2021-06-24" quantity="3" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="The Mind" objecttype="thing" objectid="244992">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Level 5 was our best</comments>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="52385161" date="2021-06-24" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Rise of Tribes" objecttype="thing" objectid="202583">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>Don&apos;t like the starting position, e.g. 1st player (me) gets screwed, no resources, limited position.</comments>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="52232836" date="2021-06-17" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Marvel Champions: The Card Game" objecttype="thing" objectid="285774">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Lost to Rhino, Rob&apos;s game</comments>
+									<players>
+									<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="52232827" date="2021-06-17" quantity="2" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Timeline: General Interest" objecttype="thing" objectid="131325">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="52133886" date="2021-06-12" quantity="1" length="270" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Struggle of Empires" objecttype="thing" objectid="9625">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Ended at phase 6 of war 3. Shawn took the one point I needed to win at the last moment!</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="1" />
+						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Mark" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="52051952" date="2021-06-08" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Bunny Kingdom" objecttype="thing" objectid="184921">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Rob won, I got last place :-(</comments>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="1" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="52051961" date="2021-06-08" quantity="6" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Codenames" objecttype="thing" objectid="178900">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="58074144" date="2021-05-27" quantity="1" length="30" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Arkham Horror" objecttype="thing" objectid="15987">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>Finished game from last two sessions</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="51660442" date="2021-05-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Exploding Kittens: NSFW Deck" objecttype="thing" objectid="172242">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="51660445" date="2021-05-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Pandemic" objecttype="thing" objectid="30549">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="1" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="1" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="1" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="1" />
+						</players>
+					</play>
+	<play id="51497228" date="2021-05-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Catan" objecttype="thing" objectid="13">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="51497226" date="2021-05-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Infinity Gauntlet: A Love Letter Game" objecttype="thing" objectid="304285">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+						<comments>Rob&apos;s game</comments>
+									<players>
+									<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="51655862" date="2021-05-06" quantity="1" length="0" incomplete="1" nowinstats="0" location="The Game Room">
+			<item name="Arkham Horror (Third Edition)" objecttype="thing" objectid="257499">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+						<comments>Still playing 2 week later. Took 2+ hours to setup and now 6 hours into the game. Postponed playing last week (after two weeks). Finished on 5/27/21</comments>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="58074247" date="2021-04-29" quantity="1" length="180" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Arkham Horror" objecttype="thing" objectid="15987">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>Added Rob and Meredith to the game Zack and I started last week. Still not complete but at moving along. Complicated at times but fun.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="51068737" date="2021-04-29" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Suspicion" objecttype="thing" objectid="204886">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Zack&apos;s game, neat how you triangulate your questions</comments>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="51068716" date="2021-04-29" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Ticket to Ride: Germany" objecttype="thing" objectid="225244">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+						<comments>Meredith&apos;s game, with Meeples!</comments>
+									<players>
+									<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="51068758" date="2021-04-29" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Trash Pandas" objecttype="thing" objectid="216439">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Zack&apos;s game</comments>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="58074199" date="2021-04-22" quantity="1" length="180" incomplete="1" nowinstats="0" location="The Game Room">
+			<item name="Arkham Horror" objecttype="thing" objectid="15987">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>Very long setup and learning. Only played 2 rounds</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="50677254" date="2021-04-13" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Jurassic World: The Boardgame" objecttype="thing" objectid="260329">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>first time</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="50677233" date="2021-04-11" quantity="2" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Trash Pandas" objecttype="thing" objectid="216439">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="40875183" date="2020-02-08" quantity="1" length="300" incomplete="0" nowinstats="0" location="Brunswick Landing">
+			<item name="Railways of the World" objecttype="thing" objectid="17133">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>6 players, eastern and western us on custom neoprene map (Russ) at Maine wargamers meeting</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Fabian" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="40765496" date="2020-02-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Gettysburg: Badges of Courage" objecttype="thing" objectid="9804">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>Played a variant by Rick Barber (?) on a redrawn (hand drawn) map. Mde it to Robert E. Lee&apos;s arrival on Day 1.</comments>
-	</play>
-	<play id="39758047" date="2019-12-27" quantity="2" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Crokinole" objecttype="thing" objectid="521">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-	</play>
+			<item name="Gettysburg: Badges of Courage" objecttype="thing" objectid="9804">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Played a variant by Rick Barber (?) on a redrawn (hand drawn) map. Mde it to Robert E. Lee&apos;s arrival on Day 1.</comments>
+								</play>
+	<play id="39758047" date="2019-12-27" quantity="2" length="0" incomplete="0" nowinstats="0" location="Home">
+			<item name="Crokinole" objecttype="thing" objectid="521">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="39687233" date="2019-12-24" quantity="3" length="60" incomplete="0" nowinstats="0" location="The Daniels&apos;">
-		<item name="Donner Dinner Party" objecttype="thing" objectid="219638">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>Pioneers won twice.</comments>
-	</play>
+			<item name="Donner Dinner Party" objecttype="thing" objectid="219638">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Pioneers won twice.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="39687269" date="2019-12-24" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Daniels&apos;">
-		<item name="Munchkin Marvel" objecttype="thing" objectid="189848">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-		<comments>I really don&apos;t like the swap with player on your right trap. Got hit by it twice!</comments>
-	</play>
+			<item name="Munchkin Marvel" objecttype="thing" objectid="189848">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>I really don&apos;t like the swap with player on your right trap. Got hit by it twice!</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="39282647" date="2019-11-28" quantity="6" length="60" incomplete="0" nowinstats="0" location="Dad&apos;s House, Richmond">
-		<item name="American Carrom" objecttype="thing" objectid="66896">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>All wins.</comments>
-	</play>
-	<play id="39282694" date="2019-11-28" quantity="4" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Crokinole" objecttype="thing" objectid="521">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>On back of carrom board. All wins</comments>
-	</play>
+			<item name="American Carrom" objecttype="thing" objectid="66896">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>All wins.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Dad" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="39282694" date="2019-11-28" quantity="4" length="0" incomplete="0" nowinstats="0" location="Dad&apos;s House Richmond">
+			<item name="Crokinole" objecttype="thing" objectid="521">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>On back of carrom board. All wins</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="38502224" date="2019-10-26" quantity="1" length="180" incomplete="1" nowinstats="0" location="Patrick&apos;s House">
-		<item name="1846: The Race for the Midwest" objecttype="thing" objectid="17405">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>First time play. I like the concept of personal vs corporate and the indirect actions you as a player take then the actions the corporations take. And the ability to invest in other corporations run by other players. While there were periods of downtime as other players sorted out actions, and the sorting out of your own actions can sometimes take a bit of time to get right. Would definitely play again!</comments>
-	</play>
+			<item name="1846: The Race for the Midwest" objecttype="thing" objectid="17405">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>First time play. I like the concept of personal vs corporate and the indirect actions you as a player take then the actions the corporations take. And the ability to invest in other corporations run by other players. While there were periods of downtime as other players sorted out actions, and the sorting out of your own actions can sometimes take a bit of time to get right. Would definitely play again!</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="36738566" date="2019-07-21" quantity="2" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="5-Minute Dungeon" objecttype="thing" objectid="207830">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>first play; made it to 4th level and ran out of time.
+			<item name="5-Minute Dungeon" objecttype="thing" objectid="207830">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>first play; made it to 4th level and ran out of time.
 second play; made it to 5th level and ran out of cards.</comments>
-	</play>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="36738865" date="2019-07-14" quantity="3" length="0" incomplete="0" nowinstats="0" location="Heather&apos;s House">
-		<item name="Codenames" objecttype="thing" objectid="178900">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="36468133" date="2019-07-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
-		<item name="Advanced Civilization" objecttype="thing" objectid="177">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameexpansion" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-		<comments>Stopped at about 6.5 hours</comments>
-		<players>
-			<player username="" userid="0" name="Anonymous player" startposition="" color="" score="0" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Anonymous player" startposition="" color="" score="0" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Anonymous player" startposition="" color="" score="0" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Anonymous player" startposition="" color="" score="0" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Anonymous player" startposition="" color="" score="0" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Anonymous player" startposition="" color="" score="0" new="0" rating="0" win="0" />
-		</players>
-	</play>
+			<item name="Codenames" objecttype="thing" objectid="178900">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Heather" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="36468133" date="2019-07-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
+			<item name="Advanced Civilization" objecttype="thing" objectid="177">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameexpansion" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>Stopped at about 6.5 hours</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="0" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Patrick" startposition="" color="" score="0" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Mark" startposition="" color="" score="0" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Russ" startposition="" color="" score="0" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob S." startposition="" color="" score="0" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Mike N." startposition="" color="" score="0" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="36012226" date="2019-06-11" quantity="1" length="90" incomplete="0" nowinstats="0" location="Bowdoin College">
-		<item name="Beowulf: The Legend" objecttype="thing" objectid="17449">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>2nd place, not bad for a first play. Fun, quick, easy.</comments>
-	</play>
+			<item name="Beowulf: The Legend" objecttype="thing" objectid="17449">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>2nd place, not bad for a first play. Fun, quick, easy.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="36469225" date="2019-05-04" quantity="1" length="180" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
-		<item name="Railways of the World" objecttype="thing" objectid="17133">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-	</play>
+			<item name="Railways of the World" objecttype="thing" objectid="17133">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Mark" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="34742206" date="2019-04-01" quantity="1" length="60" incomplete="0" nowinstats="0" location="Troop Game Night">
-		<item name="Ticket to Ride" objecttype="thing" objectid="9209">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-		<comments>Win, longest train all but one of my trains was consecutive.</comments>
-	</play>
+			<item name="Ticket to Ride" objecttype="thing" objectid="9209">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>Win, longest train all but one of my trains was consecutive.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="34742196" date="2019-03-30" quantity="1" length="270" incomplete="1" nowinstats="0" location="Patrick&apos;s House">
-		<item name="Mansions of Madness: Second Edition" objecttype="thing" objectid="205059">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-			</subtypes>
-		</item>
-		<comments>Did not finish, iPad died.</comments>
-	</play>
+			<item name="Mansions of Madness: Second Edition" objecttype="thing" objectid="205059">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+						<comments>Did not finish, iPad died.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Mark" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="28405755" date="2018-03-31" quantity="1" length="90" incomplete="0" nowinstats="0" location="Home">
-		<item name="Catan" objecttype="thing" objectid="13">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-	</play>
+			<item name="Catan" objecttype="thing" objectid="13">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Heather" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="28405745" date="2018-03-24" quantity="9" length="120" incomplete="0" nowinstats="0" location="USM Portland">
-		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-		<comments>Tournament, 2-0, 1-2, 0-2, 0-2.</comments>
-	</play>
+			<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>Tournament, 2-0, 1-2, 0-2, 0-2.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="27326308" date="2018-01-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="Troop Game Night">
-		<item name="Pandemic" objecttype="thing" objectid="30549">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>We lost by one card</comments>
-		<players>
-			<player username="" userid="0" name="Anonymous player" startposition="" color="" score="0" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Anonymous player" startposition="" color="" score="0" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Anonymous player" startposition="" color="" score="0" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Anonymous player" startposition="" color="" score="0" new="0" rating="0" win="0" />
-		</players>
-	</play>
-	<play id="27103863" date="2018-01-17" quantity="1" length="120" incomplete="0" nowinstats="0" location="">
-		<item name="One Deck Dungeon: Forest of Shadows" objecttype="thing" objectid="224821">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-		<comments>Difficult to understand the rule book. Tried and failed to play the original last weekend. Did a bit better this time, though still not sure we did it right. Very confusing at times but fun rolling piles of dice.</comments>
-	</play>
+			<item name="Pandemic" objecttype="thing" objectid="30549">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>We lost by one card</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="0" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="27103863" date="2018-01-17" quantity="1" length="120" incomplete="0" nowinstats="0" location="Home">
+			<item name="One Deck Dungeon: Forest of Shadows" objecttype="thing" objectid="224821">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>Difficult to understand the rule book. Tried and failed to play the original last weekend. Did a bit better this time, though still not sure we did it right. Very confusing at times but fun rolling piles of dice.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="27103922" date="2018-01-14" quantity="1" length="60" incomplete="0" nowinstats="0" location="PAX South">
-		<item name="Bunny Kingdom" objecttype="thing" objectid="184921">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>Fun theme, though &quot;sky bridge&quot; should be &quot;bunny burrow.&quot; Interesting game play with two players, swapping hands. Reminded me of 7 Wonders.</comments>
-	</play>
+			<item name="Bunny Kingdom" objecttype="thing" objectid="184921">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Fun theme, though &quot;sky bridge&quot; should be &quot;bunny burrow.&quot; Interesting game play with two players, swapping hands. Reminded me of 7 Wonders.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="27103966" date="2018-01-14" quantity="3" length="120" incomplete="0" nowinstats="0" location="PAX South">
-		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-		<comments>Played in Rivals of Ixalan pre-release event. Played 3; won 2 lost 1</comments>
-	</play>
+			<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>Played in Rivals of Ixalan pre-release event. Played 3; won 2 lost 1</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="27103897" date="2018-01-14" quantity="1" length="30" incomplete="0" nowinstats="0" location="PAX South">
-		<item name="Red7" objecttype="thing" objectid="161417">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>Shawn liked it so much we played again!</comments>
-	</play>
+			<item name="Red7" objecttype="thing" objectid="161417">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Shawn liked it so much we played again!</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="27103931" date="2018-01-13" quantity="5" length="180" incomplete="0" nowinstats="0" location="PAX South">
-		<item name="Magic: The Gathering" objecttype="thing" objectid="463">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-		<comments>Played in Plansewalker league</comments>
-	</play>
+			<item name="Magic: The Gathering" objecttype="thing" objectid="463">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>Played in Plansewalker league</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="27104098" date="2018-01-13" quantity="1" length="0" incomplete="1" nowinstats="0" location="PAX South">
-		<item name="Mottainai" objecttype="thing" objectid="175199">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-			</subtypes>
-		</item>
-		<comments>It got late, we couldn&apos;t understand the directions and gave up after trying a few turns.</comments>
-	</play>
+			<item name="Mottainai" objecttype="thing" objectid="175199">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+						<comments>It got late, we couldn&apos;t understand the directions and gave up after trying a few turns.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="27103893" date="2018-01-13" quantity="1" length="30" incomplete="0" nowinstats="0" location="PAX South">
-		<item name="Red7" objecttype="thing" objectid="161417">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>Fun game, easy to understand, hard to strategize! Quick and easy rules and the cards tell you all you need to know</comments>
-	</play>
-	<play id="24695418" date="2017-08-18" quantity="1" length="90" incomplete="0" nowinstats="0" location="">
-		<item name="Discoveries: The Journals of Lewis &amp; Clark" objecttype="thing" objectid="171669">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<comments>The game mechanics were, at first, tricky, but more fluid and enjoyable as the game got moving. The theme, Lewis and Clark, did not feel like an integral part of the game but more of a layer on top of the mechanics.
+			<item name="Red7" objecttype="thing" objectid="161417">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Fun game, easy to understand, hard to strategize! Quick and easy rules and the cards tell you all you need to know</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="24695418" date="2017-08-18" quantity="1" length="90" incomplete="0" nowinstats="0" location="Bowdoin College">
+			<item name="Discoveries: The Journals of Lewis &amp; Clark" objecttype="thing" objectid="171669">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>The game mechanics were, at first, tricky, but more fluid and enjoyable as the game got moving. The theme, Lewis and Clark, did not feel like an integral part of the game but more of a layer on top of the mechanics.
 
 Having only played once, not sure if there are multiple strategies that can win, e.g. would collecting tipis or sets of cards generate a win without also taking a large number of paths (for points).</comments>
-	</play>
-	<play id="24695381" date="2017-08-11" quantity="1" length="90" incomplete="0" nowinstats="0" location="">
-		<item name="Ticket to Ride: Europe" objecttype="thing" objectid="14996">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-	</play>
-	<play id="24498301" date="2017-08-04" quantity="1" length="90" incomplete="0" nowinstats="0" location="">
-		<item name="Small World" objecttype="thing" objectid="40692">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-		<comments>A fun game for the family on a Friday evening. The tokens were a bit hard to make out at times, which made counting, placement, and conquering confusing. Three out of four of us would play it again.</comments>
-	</play>
-	<play id="24498317" date="2017-07-28" quantity="1" length="90" incomplete="0" nowinstats="0" location="">
-		<item name="Ticket to Ride: Europe" objecttype="thing" objectid="14996">
-			<subtypes>
-				<subtype value="boardgame" />
-				<subtype value="boardgameimplementation" />
-				<subtype value="boardgameintegration" />
-			</subtypes>
-		</item>
-		<comments>Just as good as the original ticket to ride. This was especially fun to play as we just returned from Europe. Thigh, many of the city names were still foreign to us. The new tunnels, ferries, and train stations added some depth and complexity that may have been difficult if we had not played the original version and understood the mechanics already. Four out of four would play it again, and again.</comments>
-	</play>
-</plays>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="24695381" date="2017-08-11" quantity="1" length="90" incomplete="0" nowinstats="0" location="Home">
+			<item name="Ticket to Ride: Europe" objecttype="thing" objectid="14996">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Heather" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="24498301" date="2017-08-04" quantity="1" length="90" incomplete="0" nowinstats="0" location="Home">
+			<item name="Small World" objecttype="thing" objectid="40692">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>A fun game for the family on a Friday evening. The tokens were a bit hard to make out at times, which made counting, placement, and conquering confusing. Three out of four of us would play it again.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Heather" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="24498317" date="2017-07-28" quantity="1" length="90" incomplete="0" nowinstats="0" location="Home">
+			<item name="Ticket to Ride: Europe" objecttype="thing" objectid="14996">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>Just as good as the original ticket to ride. This was especially fun to play as we just returned from Europe. Thigh, many of the city names were still foreign to us. The new tunnels, ferries, and train stations added some depth and complexity that may have been difficult if we had not played the original version and understood the mechanics already. Four out of four would play it again, and again.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Heather" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	</plays>
