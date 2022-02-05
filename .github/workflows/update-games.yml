@@ -1,0 +1,11 @@
+name: update-bgg-games
+jobs:
+  update-bgg:
+    runs-on: ubuntu-latest
+    steps:
+      - run: curl https://boardgamegeek.com/xmlapi2/collection\?username\=0xACE > dl-collection.xml
+      - run: curl https://boardgamegeek.com/xmlapi2/plays\?username\=0xACE > dl-plays.xml
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - run: diff ${{ github.workspace }}/bgg-collection.xml dl-collection.xml
+      - run: diff ${{ github.workspace }}/bgg-plays.xml dl-plays.xml

@@ -80,7 +80,6 @@ function render_date(the_date) {
 }
 
 function addLocalGames() {
-	debugger;
 	$.ajax({
 		url: 'games.xml',
 	}).done(function(xml) {
@@ -93,7 +92,6 @@ function addLocalGames() {
 }
 
 function addLocalPlays() {
-	debugger;
 	$.ajax({
 		url: 'plays.xml',
 	}).done(function(xml) {
