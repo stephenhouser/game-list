@@ -1,4 +1,7 @@
 name: update-bgg-games
+on:
+  schedule:
+    - cron: '0 0 * * *'
 jobs:
   update-bgg:
     runs-on: ubuntu-latest
