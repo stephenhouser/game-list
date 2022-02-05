@@ -7,9 +7,9 @@ on:
     inputs:
       name:
         # Friendly description to be shown in the UI instead of 'name'
-        description: 'Person to greet'
+        description: 'BGG Username to Pull'
         # Default value if no value is explicitly provided
-        default: 'World'
+        default: '0xACE'
         # Input has to be provided for the workflow to run
         required: true  
 jobs:
@@ -18,6 +18,7 @@ jobs:
     steps:
       - run: curl -o dl-collection.xml https://boardgamegeek.com/xmlapi2/collection\?username\=0xACE
       - run: curl -o dl-plays.xml https://boardgamegeek.com/xmlapi2/plays\?username\=0xACE
+      - run: ls -l
       - name: Check out repository code
         uses: actions/checkout@v2
       - run: diff ${{ github.workspace }}/bgg-collection.xml dl-collection.xml
