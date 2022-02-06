@@ -1,12 +1,10 @@
 name: update-bgg-games
 on:
   schedule:
-    - cron: '0 0 * * *
+    - cron: '0 0 * * *'
   workflow_dispatch:
-    # Inputs the workflow accepts.
     inputs:
       name:
-        # Friendly description to be shown in the UI instead of 'name'
         description: 'BGG Username to Pull'
         default: '0xACE'
         required: true
