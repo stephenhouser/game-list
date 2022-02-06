@@ -11,14 +11,17 @@ on:
         # Default value if no value is explicitly provided
         default: '0xACE'
         # Input has to be provided for the workflow to run
-        required: true  
+        required: true  rcs10
+        
 jobs:
   update-bgg:
     runs-on: ubuntu-latest
     steps:
+      - name: setup git config
+        run: |
+          git config user.name "Stephen Houser (Automated)"
+          git config user.email "Stephen Houser <stephenhouser@gmail.com>"
       - name: Check out repository code
         uses: actions/checkout@v2
-      - run: curl -o dl-collection.xml https://boardgamegeek.com/xmlapi2/collection\?username\=0xACE
-      - run: diff ${{ github.workspace }}/bgg-collection.xml dl-collection.xml
-      - run: curl -o dl-plays.xml https://boardgamegeek.com/xmlapi2/plays\?username\=0xACE
-      - run: diff ${{ github.workspace }}/bgg-plays.xml dl-plays.xml
+      - name: Check for updated collection and plays
+        run: ./scripts/bgg-update.sh
