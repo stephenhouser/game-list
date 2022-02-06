@@ -1,7 +1,7 @@
 name: update-bgg-games
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *
   workflow_dispatch:
     # Inputs the workflow accepts.
     inputs:
@@ -17,10 +17,8 @@ jobs:
   update-bgg:
     runs-on: ubuntu-latest
     steps:
-      - name: setup git config
-        run: |
-          git config user.name "Stephen Houser (Automated)"
-          git config user.email "Stephen Houser <stephenhouser@gmail.com>"
+      - run: git config user.name "Stephen Houser (Automated)"
+      - run: git config user.email "Stephen Houser <stephenhouser@gmail.com>"
       - name: Check out repository code
         uses: actions/checkout@v2
       - name: Check for updated collection and plays
