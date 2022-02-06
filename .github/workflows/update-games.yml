@@ -13,11 +13,11 @@ jobs:
   update-bgg:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
       - name: setup git config
         run: |
           git config user.name "Stephen Houser (Automated)"
           git config user.email "Stephen Houser <stephenhouser@gmail.com>"
-      - name: Check out repository code
-        uses: actions/checkout@v2
       - name: Check for updated collection and plays
         run: ./scripts/bgg-update.sh
