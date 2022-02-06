@@ -21,6 +21,6 @@ fi
 
 staged=$(git diff --name-only --cached | wc -l)
 if [[ $staged -ge 1 ]] ; then
-	echo git commit -m"Update BGG game data."
-	echo git push origin master
+	git commit -m"Update BGG game data."
+	git push origin master
 fi
