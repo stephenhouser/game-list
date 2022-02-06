@@ -8,17 +8,17 @@ on:
       name:
         # Friendly description to be shown in the UI instead of 'name'
         description: 'BGG Username to Pull'
-        # Default value if no value is explicitly provided
         default: '0xACE'
-        # Input has to be provided for the workflow to run
-        required: true  rcs10
+        required: true
         
 jobs:
   update-bgg:
     runs-on: ubuntu-latest
     steps:
-      - run: git config user.name "Stephen Houser (Automated)"
-      - run: git config user.email "Stephen Houser <stephenhouser@gmail.com>"
+      - name: setup git config
+        run: |
+          git config user.name "Stephen Houser (Automated)"
+          git config user.email "Stephen Houser <stephenhouser@gmail.com>"
       - name: Check out repository code
         uses: actions/checkout@v2
       - name: Check for updated collection and plays
