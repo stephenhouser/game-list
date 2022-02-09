@@ -20,3 +20,12 @@ Uses [Bootstrap Table](http://bootstrap-table.wenzhixin.net.cn) for the table di
 ## Copyright
 
 Copyright (c) 2017 Stephen Houser. Released under the [MIT License](https://github.com/stephenhouser/game-room/blob/master/LICENSE).
+
+
+## NOTES
+
+```
+cat bgg-collection.xml| xq  '.items.item[] | .name | .["#text"]'
+```
+
+python -c 'import json; import yaml; print(yaml.dump(json.load(open("inputfile"))))'
