@@ -1,5 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="92" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="58044313" date="2022-02-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="94" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="58266222" date="2022-02-10" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Choose Your Own Adventure: House of Danger" objecttype="thing" objectid="251420">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Chapter 3 and Chapter 4.</comments>
+									<players>
+									<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="58266203" date="2022-02-10" quantity="2" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Kingdomino Origins" objecttype="thing" objectid="340041">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+						<comments>Stephen 1, Zack 1, Meredith’s game</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="58044313" date="2022-02-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Cribbage" objecttype="thing" objectid="2398">
 				<subtypes>
 										<subtype value="boardgame" />
