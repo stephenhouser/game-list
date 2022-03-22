@@ -1,32 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plays username="0xACE" userid="1524036" total="" termsofuse="">
-	<play id="-1" date="2022-02-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
-		<item name="Undertow - The Beach Game" objecttype="thing" objectid="-1">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-
-	<play id="-2" date="2022-01-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
-		<item name="Undertow - The Beach Game" objecttype="thing" objectid="-1">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-		<comments>The first true multiplayer playthough</comments>
-	</play>
-
 	<play id="-3" date="2022-01-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
 		<item name="K(no)w Stupid!" objecttype="thing" objectid="-2">
 			<subtypes>
@@ -40,29 +13,4 @@
 			<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 		</players>
 	</play>
-
-	<play id="-4" date="2022-01-23" quantity="1" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Undertow - The Beach Game" objecttype="thing" objectid="-1">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-
-	<play id="-5" date="2022-01-18" quantity="3" length="0" incomplete="0" nowinstats="0" location="Home">
-		<item name="Undertow - The Beach Game" objecttype="thing" objectid="-1">
-			<subtypes>
-				<subtype value="boardgame" />
-			</subtypes>
-		</item>
-		<players>
-			<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-			<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-		</players>
-	</play>
-
 </plays>
