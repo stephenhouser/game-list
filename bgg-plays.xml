@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="98" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="105" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
 <play id="59252222" date="2022-03-19" quantity="1" length="90" incomplete="1" nowinstats="0" location="Patrick&apos;s House">
 			<item name="Conductor: Stories from the Underground Railroad" objecttype="thing" objectid="357629">
 				<subtypes>
@@ -26,6 +26,20 @@
 						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
+	<play id="59340089" date="2022-03-19" quantity="3" length="60" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
+			<item name="Undertow: The Beach Game" objecttype="thing" objectid="359334">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>More playtesting</comments>
+									<players>
+									<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="59252334" date="2022-03-19" quantity="1" length="60" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
 			<item name="Welcome To..." objecttype="thing" objectid="233867">
 				<subtypes>
@@ -36,6 +50,42 @@
 									<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="59337945" date="2022-03-08" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Daniels&apos;">
+			<item name="Are You Dumber Than a Box of Rocks?" objecttype="thing" objectid="202737">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="59337952" date="2022-03-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Daniels&apos;">
+			<item name="GWAR vs. Time!" objecttype="thing" objectid="285870">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="59337938" date="2022-03-08" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Daniels&apos;">
+			<item name="Trial by Trolley" objecttype="thing" objectid="282171">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
@@ -106,6 +156,20 @@
 						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="orange" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
+	<play id="59340098" date="2022-02-03" quantity="2" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Undertow: The Beach Game" objecttype="thing" objectid="359334">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Playtesting</comments>
+									<players>
+									<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="57946888" date="2022-01-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Gloomhaven: Jaws of the Lion" objecttype="thing" objectid="291457">
 				<subtypes>
@@ -159,6 +223,17 @@
 						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
+	<play id="59340105" date="2022-01-23" quantity="2" length="30" incomplete="0" nowinstats="0" location="Home">
+			<item name="Undertow: The Beach Game" objecttype="thing" objectid="359334">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Brie" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
 	<play id="57917778" date="2022-01-20" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Forbidden Desert" objecttype="thing" objectid="136063">
 				<subtypes>
@@ -171,6 +246,18 @@
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="59340108" date="2022-01-20" quantity="3" length="60" incomplete="0" nowinstats="0" location="Home">
+			<item name="Undertow: The Beach Game" objecttype="thing" objectid="359334">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Playtest</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	<play id="57404831" date="2022-01-13" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
@@ -1265,79 +1352,6 @@ second play; made it to 5th level and ran out of cards.</comments>
 						<comments>It got late, we couldn&apos;t understand the directions and gave up after trying a few turns.</comments>
 									<players>
 									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="27103893" date="2018-01-13" quantity="1" length="30" incomplete="0" nowinstats="0" location="PAX South">
-			<item name="Red7" objecttype="thing" objectid="161417">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>Fun game, easy to understand, hard to strategize! Quick and easy rules and the cards tell you all you need to know</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="24695418" date="2017-08-18" quantity="1" length="90" incomplete="0" nowinstats="0" location="Bowdoin College">
-			<item name="Discoveries: The Journals of Lewis &amp; Clark" objecttype="thing" objectid="171669">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>The game mechanics were, at first, tricky, but more fluid and enjoyable as the game got moving. The theme, Lewis and Clark, did not feel like an integral part of the game but more of a layer on top of the mechanics.
-
-Having only played once, not sure if there are multiple strategies that can win, e.g. would collecting tipis or sets of cards generate a win without also taking a large number of paths (for points).</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="24695381" date="2017-08-11" quantity="1" length="90" incomplete="0" nowinstats="0" location="Home">
-			<item name="Ticket to Ride: Europe" objecttype="thing" objectid="14996">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Heather" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="24498301" date="2017-08-04" quantity="1" length="90" incomplete="0" nowinstats="0" location="Home">
-			<item name="Small World" objecttype="thing" objectid="40692">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-						<comments>A fun game for the family on a Friday evening. The tokens were a bit hard to make out at times, which made counting, placement, and conquering confusing. Three out of four of us would play it again.</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Heather" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="24498317" date="2017-07-28" quantity="1" length="90" incomplete="0" nowinstats="0" location="Home">
-			<item name="Ticket to Ride: Europe" objecttype="thing" objectid="14996">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-						<comments>Just as good as the original ticket to ride. This was especially fun to play as we just returned from Europe. Thigh, many of the city names were still foreign to us. The new tunnels, ferries, and train stations added some depth and complexity that may have been difficult if we had not played the original version and understood the mechanics already. Four out of four would play it again, and again.</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Heather" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
