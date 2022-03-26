@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="105" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="59252222" date="2022-03-19" quantity="1" length="90" incomplete="1" nowinstats="0" location="Patrick&apos;s House">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="107" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="59391027" date="2022-03-24" quantity="1" length="30" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Choose Your Own Adventure: House of Danger" objecttype="thing" objectid="251420">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="59391017" date="2022-03-24" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Survive: Escape from Atlantis!" objecttype="thing" objectid="2653">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="59252222" date="2022-03-19" quantity="1" length="90" incomplete="1" nowinstats="0" location="Patrick&apos;s House">
 			<item name="Conductor: Stories from the Underground Railroad" objecttype="thing" objectid="357629">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1327,31 +1353,6 @@ second play; made it to 5th level and ran out of cards.</comments>
 									<players>
 									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="27103931" date="2018-01-13" quantity="5" length="180" incomplete="0" nowinstats="0" location="PAX South">
-			<item name="Magic: The Gathering" objecttype="thing" objectid="463">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-						<comments>Played in Plansewalker league</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="27104098" date="2018-01-13" quantity="1" length="0" incomplete="1" nowinstats="0" location="PAX South">
-			<item name="Mottainai" objecttype="thing" objectid="175199">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-									</subtypes>
-			</item>
-						<comments>It got late, we couldn&apos;t understand the directions and gave up after trying a few turns.</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
