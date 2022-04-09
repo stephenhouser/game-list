@@ -1,5 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="107" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="59391027" date="2022-03-24" quantity="1" length="30" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="108" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="59754372" date="2022-04-07" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Root" objecttype="thing" objectid="237182">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>An alliance between the Vagabond (Zack) and the Woodland Alliance (Meredith) took over the forest!</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="59391027" date="2022-03-24" quantity="1" length="30" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Choose Your Own Adventure: House of Danger" objecttype="thing" objectid="251420">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1338,18 +1352,6 @@ second play; made it to 5th level and ran out of cards.</comments>
 									</subtypes>
 			</item>
 						<comments>Played in Rivals of Ixalan pre-release event. Played 3; won 2 lost 1</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="27103897" date="2018-01-14" quantity="1" length="30" incomplete="0" nowinstats="0" location="PAX South">
-			<item name="Red7" objecttype="thing" objectid="161417">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>Shawn liked it so much we played again!</comments>
 									<players>
 									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
