@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="108" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="59754372" date="2022-04-07" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="110" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="60219262" date="2022-04-21" quantity="1" length="60" incomplete="0" nowinstats="0" location="">
+			<item name="Oh My God, Stacy!" objecttype="thing" objectid="266780">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="60219243" date="2022-04-21" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Quest for the Antidote" objecttype="thing" objectid="224656">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="59754372" date="2022-04-07" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Root" objecttype="thing" objectid="237182">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1327,31 +1353,6 @@ second play; made it to 5th level and ran out of cards.</comments>
 									</subtypes>
 			</item>
 						<comments>Difficult to understand the rule book. Tried and failed to play the original last weekend. Did a bit better this time, though still not sure we did it right. Very confusing at times but fun rolling piles of dice.</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="27103922" date="2018-01-14" quantity="1" length="60" incomplete="0" nowinstats="0" location="PAX South">
-			<item name="Bunny Kingdom" objecttype="thing" objectid="184921">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>Fun theme, though &quot;sky bridge&quot; should be &quot;bunny burrow.&quot; Interesting game play with two players, swapping hands. Reminded me of 7 Wonders.</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="27103966" date="2018-01-14" quantity="3" length="120" incomplete="0" nowinstats="0" location="PAX South">
-			<item name="Magic: The Gathering" objecttype="thing" objectid="463">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-						<comments>Played in Rivals of Ixalan pre-release event. Played 3; won 2 lost 1</comments>
 									<players>
 									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
