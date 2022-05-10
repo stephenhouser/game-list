@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="110" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="60219262" date="2022-04-21" quantity="1" length="60" incomplete="0" nowinstats="0" location="">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="112" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="60591749" date="2022-05-05" quantity="1" length="30" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Diamonsters" objecttype="thing" objectid="144036">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="60591738" date="2022-05-05" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Horrified" objecttype="thing" objectid="282524">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="60219262" date="2022-04-21" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Oh My God, Stacy!" objecttype="thing" objectid="266780">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1332,30 +1358,6 @@ second play; made it to 5th level and ran out of cards.</comments>
 						<comments>Tournament, 2-0, 1-2, 0-2, 0-2.</comments>
 									<players>
 									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="27326308" date="2018-01-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="Troop Game Night">
-			<item name="Pandemic" objecttype="thing" objectid="30549">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>We lost by one card</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="0" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="27103863" date="2018-01-17" quantity="1" length="120" incomplete="0" nowinstats="0" location="Home">
-			<item name="One Deck Dungeon: Forest of Shadows" objecttype="thing" objectid="224821">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-						<comments>Difficult to understand the rule book. Tried and failed to play the original last weekend. Did a bit better this time, though still not sure we did it right. Very confusing at times but fun rolling piles of dice.</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
