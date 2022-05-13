@@ -1,5 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="112" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="60591749" date="2022-05-05" quantity="1" length="30" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="113" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="60656251" date="2022-05-12" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Wakanda Forever" objecttype="thing" objectid="280282">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Zack wins</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="60591749" date="2022-05-05" quantity="1" length="30" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Diamonsters" objecttype="thing" objectid="144036">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1346,18 +1360,6 @@ second play; made it to 5th level and ran out of cards.</comments>
 						<player username="" userid="0" name="Heather" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="28405745" date="2018-03-24" quantity="9" length="120" incomplete="0" nowinstats="0" location="USM Portland">
-			<item name="Magic: The Gathering" objecttype="thing" objectid="463">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-						<comments>Tournament, 2-0, 1-2, 0-2, 0-2.</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
