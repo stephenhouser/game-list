@@ -1,5 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="113" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="60656251" date="2022-05-12" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="114" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="60657414" date="2022-05-12" quantity="2" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Tranquility" objecttype="thing" objectid="288513">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="60656251" date="2022-05-12" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Wakanda Forever" objecttype="thing" objectid="280282">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1346,20 +1359,6 @@ second play; made it to 5th level and ran out of cards.</comments>
 						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Mark" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="28405755" date="2018-03-31" quantity="1" length="90" incomplete="0" nowinstats="0" location="Home">
-			<item name="Catan" objecttype="thing" objectid="13">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Heather" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
