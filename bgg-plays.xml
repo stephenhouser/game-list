@@ -1,5 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="114" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="60657414" date="2022-05-12" quantity="2" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="116" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="61550490" date="2022-06-16" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Dragonrealm" objecttype="thing" objectid="272993">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="61550306" date="2022-06-16" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="The Game of Sniglets" objecttype="thing" objectid="7631">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="60657414" date="2022-05-12" quantity="2" length="60" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Tranquility" objecttype="thing" objectid="288513">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1021,7 +1048,7 @@
 						</players>
 					</play>
 	<play id="51497228" date="2021-05-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Catan" objecttype="thing" objectid="13">
+			<item name="CATAN" objecttype="thing" objectid="13">
 				<subtypes>
 										<subtype value="boardgame" />
 										<subtype value="boardgameintegration" />
@@ -1327,33 +1354,6 @@ second play; made it to 5th level and ran out of cards.</comments>
 										<subtype value="boardgameintegration" />
 									</subtypes>
 			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Mark" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="34742206" date="2019-04-01" quantity="1" length="60" incomplete="0" nowinstats="0" location="Troop Game Night">
-			<item name="Ticket to Ride" objecttype="thing" objectid="9209">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-						<comments>Win, longest train all but one of my trains was consecutive.</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="34742196" date="2019-03-30" quantity="1" length="270" incomplete="1" nowinstats="0" location="Patrick&apos;s House">
-			<item name="Mansions of Madness: Second Edition" objecttype="thing" objectid="205059">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-									</subtypes>
-			</item>
-						<comments>Did not finish, iPad died.</comments>
 									<players>
 									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
