@@ -1,5 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="116" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="61550490" date="2022-06-16" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="121" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="62291736" date="2022-07-14" quantity="1" length="60" incomplete="0" nowinstats="0" location="">
+			<item name="Concept" objecttype="thing" objectid="147151">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Coleen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="62291776" date="2022-07-14" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="How to Rob a Bank" objecttype="thing" objectid="232079">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="62291682" date="2022-07-07" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Cosmic Encounter" objecttype="thing" objectid="39463">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="62291712" date="2022-07-07" quantity="1" length="30" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Timeline: General Interest" objecttype="thing" objectid="131325">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Coleen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="62291691" date="2022-07-07" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Tranquility" objecttype="thing" objectid="288513">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Coleen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="61550490" date="2022-06-16" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Dragonrealm" objecttype="thing" objectid="272993">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1287,78 +1357,6 @@
 									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="36738566" date="2019-07-21" quantity="2" length="0" incomplete="0" nowinstats="0" location="Home">
-			<item name="5-Minute Dungeon" objecttype="thing" objectid="207830">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>first play; made it to 4th level and ran out of time.
-second play; made it to 5th level and ran out of cards.</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="36738865" date="2019-07-14" quantity="3" length="0" incomplete="0" nowinstats="0" location="Heather&apos;s House">
-			<item name="Codenames" objecttype="thing" objectid="178900">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Heather" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="36468133" date="2019-07-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
-			<item name="Advanced Civilization" objecttype="thing" objectid="177">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameexpansion" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-						<comments>Stopped at about 6.5 hours</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="0" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="0" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Mark" startposition="" color="" score="0" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Russ" startposition="" color="" score="0" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob S." startposition="" color="" score="0" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Mike N." startposition="" color="" score="0" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="36012226" date="2019-06-11" quantity="1" length="90" incomplete="0" nowinstats="0" location="Bowdoin College">
-			<item name="Beowulf: The Legend" objecttype="thing" objectid="17449">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>2nd place, not bad for a first play. Fun, quick, easy.</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="36469225" date="2019-05-04" quantity="1" length="180" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
-			<item name="Railways of the World" objecttype="thing" objectid="17133">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Mark" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
