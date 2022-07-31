@@ -1,5 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="121" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="62291736" date="2022-07-14" quantity="1" length="60" incomplete="0" nowinstats="0" location="">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="124" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="62762067" date="2022-07-28" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="8Bit Box" objecttype="thing" objectid="240892">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Pixoid</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="62762073" date="2022-07-28" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Captain Marvel: Secret Skrulls" objecttype="thing" objectid="269564">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="62762080" date="2022-07-28" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Sushi Go!" objecttype="thing" objectid="133473">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="62291736" date="2022-07-14" quantity="1" length="60" incomplete="0" nowinstats="0" location="">
 			<item name="Concept" objecttype="thing" objectid="147151">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1317,46 +1358,6 @@
 									<players>
 									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="39282647" date="2019-11-28" quantity="6" length="60" incomplete="0" nowinstats="0" location="Dad&apos;s House, Richmond">
-			<item name="American Carrom" objecttype="thing" objectid="66896">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>All wins.</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Dad" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="39282694" date="2019-11-28" quantity="4" length="0" incomplete="0" nowinstats="0" location="Dad&apos;s House Richmond">
-			<item name="Crokinole" objecttype="thing" objectid="521">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>On back of carrom board. All wins</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Brianna" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="38502224" date="2019-10-26" quantity="1" length="180" incomplete="1" nowinstats="0" location="Patrick&apos;s House">
-			<item name="1846: The Race for the Midwest" objecttype="thing" objectid="17405">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>First time play. I like the concept of personal vs corporate and the indirect actions you as a player take then the actions the corporations take. And the ability to invest in other corporations run by other players. While there were periods of downtime as other players sorted out actions, and the sorting out of your own actions can sometimes take a bit of time to get right. Would definitely play again!</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
