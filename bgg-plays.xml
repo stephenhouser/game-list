@@ -1,5 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="127" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="63497489" date="2022-08-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="130" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="63725246" date="2022-08-31" quantity="3" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Otrio" objecttype="thing" objectid="188465">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="63724937" date="2022-08-31" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Splendor: Marvel" objecttype="thing" objectid="293296">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="63724920" date="2022-08-25" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="The Isle of Cats" objecttype="thing" objectid="281259">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="63497489" date="2022-08-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Bunny Kingdom" objecttype="thing" objectid="184921">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1329,39 +1369,4 @@
 						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
-	<play id="50677233" date="2021-04-11" quantity="2" length="0" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Trash Pandas" objecttype="thing" objectid="216439">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="40875183" date="2020-02-08" quantity="1" length="300" incomplete="0" nowinstats="0" location="Brunswick Landing">
-			<item name="Railways of the World" objecttype="thing" objectid="17133">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-						<comments>6 players, eastern and western us on custom neoprene map (Russ) at Maine wargamers meeting</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Fabian" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="40765496" date="2020-02-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
-			<item name="Gettysburg: Badges of Courage" objecttype="thing" objectid="9804">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>Played a variant by Rick Barber (?) on a redrawn (hand drawn) map. Mde it to Robert E. Lee&apos;s arrival on Day 1.</comments>
-								</play>
 	</plays>
