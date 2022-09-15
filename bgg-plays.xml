@@ -1,5 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="131" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="63726001" date="2022-08-31" quantity="4" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="132" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="64093909" date="2022-09-14" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Thanos Rising: Avengers Infinity War" objecttype="thing" objectid="248158">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>We won!</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="63726001" date="2022-08-31" quantity="4" length="60" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Drop It" objecttype="thing" objectid="244916">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1352,20 +1366,6 @@
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="58074199" date="2021-04-22" quantity="1" length="180" incomplete="1" nowinstats="0" location="The Game Room">
-			<item name="Arkham Horror" objecttype="thing" objectid="15987">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-						<comments>Very long setup and learning. Only played 2 rounds</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
