@@ -1,5 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="132" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="64093909" date="2022-09-14" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="135" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="64290289" date="2022-09-21" quantity="2" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Azul" objecttype="thing" objectid="230802">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="64290303" date="2022-09-21" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Simon Sorry" objecttype="thing" objectid="316268">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="64290313" date="2022-09-21" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Ticket to Ride: London" objecttype="thing" objectid="276894">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+						<comments>in honor of The Queen</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="64093909" date="2022-09-14" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Thanos Rising: Avengers Infinity War" objecttype="thing" objectid="248158">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1323,49 +1363,6 @@
 						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="51068737" date="2021-04-29" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Suspicion" objecttype="thing" objectid="204886">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>Zack&apos;s game, neat how you triangulate your questions</comments>
-									<players>
-									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="51068716" date="2021-04-29" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Ticket to Ride: Germany" objecttype="thing" objectid="225244">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-									</subtypes>
-			</item>
-						<comments>Meredith&apos;s game, with Meeples!</comments>
-									<players>
-									<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="51068758" date="2021-04-29" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Trash Pandas" objecttype="thing" objectid="216439">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>Zack&apos;s game</comments>
-									<players>
-									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
