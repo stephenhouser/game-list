@@ -1,5 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="139" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="64857127" date="2022-10-12" quantity="5" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="140" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="64857663" date="2022-10-12" quantity="4" length="30" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="The Mind" objecttype="thing" objectid="244992">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="64857127" date="2022-10-12" quantity="5" length="60" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Scrabble Slam!" objecttype="thing" objectid="40508">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1342,19 +1355,6 @@
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="51660445" date="2021-05-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Pandemic" objecttype="thing" objectid="30549">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="1" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="1" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="1" />
-						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="1" />
 						</players>
 					</play>
 	</plays>
