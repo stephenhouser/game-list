@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="141" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="65042072" date="2022-10-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="boardgamearena.com">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="143" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="65437683" date="2022-11-02" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Pente" objecttype="thing" objectid="1295">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="65437690" date="2022-11-02" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Yacht Rock" objecttype="thing" objectid="303054">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="65042072" date="2022-10-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="boardgamearena.com">
 			<item name="7 Wonders" objecttype="thing" objectid="68448">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1324,36 +1350,6 @@
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="1" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="52051961" date="2021-06-08" quantity="6" length="90" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Codenames" objecttype="thing" objectid="178900">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="58074144" date="2021-05-27" quantity="1" length="30" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Arkham Horror" objecttype="thing" objectid="15987">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-						<comments>Finished game from last two sessions</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
