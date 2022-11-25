@@ -1,5 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="144" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="65834189" date="2022-11-16" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="146" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="66030614" date="2022-11-23" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="PARKS" objecttype="thing" objectid="266524">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="66031805" date="2022-11-23" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Wavelength" objecttype="thing" objectid="262543">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="65834189" date="2022-11-16" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Bunny Kingdom" objecttype="thing" objectid="184921">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1319,34 +1347,6 @@
 						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="52232827" date="2021-06-17" quantity="2" length="0" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Timeline: General Interest" objecttype="thing" objectid="131325">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="52133886" date="2021-06-12" quantity="1" length="270" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Struggle of Empires" objecttype="thing" objectid="9625">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>Ended at phase 6 of war 3. Shawn took the one point I needed to win at the last moment!</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="1" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Mark" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
