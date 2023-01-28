@@ -1,5 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="159" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="67122374" date="2022-12-28" quantity="4" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="160" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="68349226" date="2023-01-26" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="CATAN: Dawn of Humankind" objecttype="thing" objectid="358858">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="67122374" date="2022-12-28" quantity="4" length="60" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Crokinole" objecttype="thing" objectid="521">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1311,21 +1325,6 @@
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="53675611" date="2021-08-19" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Ticket to Ride: Europe" objecttype="thing" objectid="14996">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
