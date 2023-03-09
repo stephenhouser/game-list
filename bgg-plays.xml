@@ -1,5 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="161" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="68668487" date="2023-02-04" quantity="1" length="0" incomplete="1" nowinstats="0" location="Chris&apos; Cave">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="162" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="69798818" date="2023-03-03" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="CATAN" objecttype="thing" objectid="13">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Heather" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="68668487" date="2023-02-04" quantity="1" length="0" incomplete="1" nowinstats="0" location="Chris&apos; Cave">
 			<item name="Liberty or Death: The American Insurrection" objecttype="thing" objectid="165872">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1308,20 +1323,6 @@
 						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="54667335" date="2021-09-23" quantity="5" length="0" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Hearts" objecttype="thing" objectid="6887">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>How fun to play an old game.</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
