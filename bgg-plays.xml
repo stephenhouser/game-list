@@ -1,5 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="173" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="71251550" date="2023-04-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="176" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="71438088" date="2023-04-27" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Game of Phones" objecttype="thing" objectid="179701">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="71438068" date="2023-04-27" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Happy Little Dinosaurs" objecttype="thing" objectid="325414">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="71438081" date="2023-04-27" quantity="2" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Marvel Mayhem" objecttype="thing" objectid="354342">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="71251550" date="2023-04-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="POOP: The Game" objecttype="thing" objectid="155081">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -398,6 +438,7 @@
 			<item name="Pente" objecttype="thing" objectid="1295">
 				<subtypes>
 										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
 									</subtypes>
 			</item>
 									<players>
@@ -1284,47 +1325,6 @@
 									<players>
 									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="1" />
-						</players>
-					</play>
-	<play id="56486447" date="2021-12-09" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Pirates of the 7 Seas" objecttype="thing" objectid="172613">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="1" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="55763610" date="2021-11-19" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Marvel Champions: The Card Game" objecttype="thing" objectid="285774">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>we beat Rhino this time.</comments>
-									<players>
-									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="55763629" date="2021-11-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Choose Your Own Adventure: House of Danger" objecttype="thing" objectid="251420">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>2 Scenarios</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
