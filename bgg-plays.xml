@@ -1,5 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="201" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="77057341" date="2023-10-26" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="202" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="77366013" date="2023-11-02" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Marvel Dice Throne" objecttype="thing" objectid="348406">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgamecompilation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="77057341" date="2023-10-26" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="The Quest for El Dorado" objecttype="thing" objectid="217372">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -978,7 +993,7 @@
 						</players>
 					</play>
 	<play id="62991685" date="2022-08-04" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Catan: Starfarers" objecttype="thing" objectid="282853">
+			<item name="CATAN – Starfarers" objecttype="thing" objectid="282853">
 				<subtypes>
 										<subtype value="boardgame" />
 										<subtype value="boardgameimplementation" />
@@ -1287,19 +1302,6 @@
 						<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="59252334" date="2022-03-19" quantity="1" length="60" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
-			<item name="Welcome To..." objecttype="thing" objectid="233867">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
