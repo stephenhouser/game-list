@@ -1,5 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="202" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="77366013" date="2023-11-02" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="203" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="77563770" date="2023-11-09" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Terraforming Mars" objecttype="thing" objectid="167791">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="77366013" date="2023-11-02" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Marvel Dice Throne" objecttype="thing" objectid="348406">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -993,7 +1007,7 @@
 						</players>
 					</play>
 	<play id="62991685" date="2022-08-04" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="CATAN – Starfarers" objecttype="thing" objectid="282853">
+			<item name="CATAN: Starfarers" objecttype="thing" objectid="282853">
 				<subtypes>
 										<subtype value="boardgame" />
 										<subtype value="boardgameimplementation" />
@@ -1288,20 +1302,6 @@
 						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="59340089" date="2022-03-19" quantity="3" length="60" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
-			<item name="Undertow: The Beach Game" objecttype="thing" objectid="359334">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>More playtesting</comments>
-									<players>
-									<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
