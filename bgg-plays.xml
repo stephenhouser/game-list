@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="203" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="77563770" date="2023-11-09" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="205" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="77783601" date="2023-11-16" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Justice League: Axis of Villains Strategy Game" objecttype="thing" objectid="141725">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="77783589" date="2023-11-16" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Topple" objecttype="thing" objectid="3702">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="77563770" date="2023-11-09" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Terraforming Mars" objecttype="thing" objectid="167791">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1275,33 +1301,6 @@
 						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="59252222" date="2022-03-19" quantity="1" length="90" incomplete="1" nowinstats="0" location="Patrick&apos;s House">
-			<item name="Conductor: Stories from the Underground Railroad" objecttype="thing" objectid="357629">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>First play, in development. Remote zoom audience.</comments>
-									<players>
-									<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="59252264" date="2022-03-19" quantity="1" length="90" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
-			<item name="Survive: Escape from Atlantis!" objecttype="thing" objectid="2653">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
