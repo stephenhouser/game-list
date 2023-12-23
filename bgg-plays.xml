@@ -1,5 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="205" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="77783601" date="2023-11-16" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="207" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="78973265" date="2023-12-14" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Concept" objecttype="thing" objectid="147151">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="78973284" date="2023-12-14" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Trekking the National Parks: Second Edition" objecttype="thing" objectid="255708">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="77783601" date="2023-11-16" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Justice League: Axis of Villains Strategy Game" objecttype="thing" objectid="141725">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1270,32 +1297,6 @@
 									</subtypes>
 			</item>
 						<comments>An alliance between the Vagabond (Zack) and the Woodland Alliance (Meredith) took over the forest!</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="59391027" date="2022-03-24" quantity="1" length="30" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Choose Your Own Adventure: House of Danger" objecttype="thing" objectid="251420">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="59391017" date="2022-03-24" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Survive: Escape from Atlantis!" objecttype="thing" objectid="2653">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
 									<players>
 									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
