@@ -1,5 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="209" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="79320110" date="2023-12-28" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="212" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="80054839" date="2024-01-11" quantity="3" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Coup" objecttype="thing" objectid="131357">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="80054821" date="2024-01-11" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Moose Master" objecttype="thing" objectid="380229">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="80054856" date="2024-01-11" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Survive: Escape from Atlantis!" objecttype="thing" objectid="2653">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="79320110" date="2023-12-28" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Mind the Gap" objecttype="thing" objectid="229537">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1258,45 +1294,6 @@
 									</subtypes>
 			</item>
 						<comments>Zack wins</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="60591749" date="2022-05-05" quantity="1" length="30" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Diamonsters" objecttype="thing" objectid="144036">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="60591738" date="2022-05-05" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Horrified" objecttype="thing" objectid="282524">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="60219262" date="2022-04-21" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Oh My God, Stacy!" objecttype="thing" objectid="266780">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
 									<players>
 									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
