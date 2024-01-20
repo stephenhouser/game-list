@@ -1,5 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="212" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="80054839" date="2024-01-11" quantity="3" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="214" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="80390463" date="2024-01-18" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="CATAN" objecttype="thing" objectid="13">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="80390472" date="2024-01-18" quantity="3" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Red7" objecttype="thing" objectid="161417">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="80054839" date="2024-01-11" quantity="3" length="60" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Coup" objecttype="thing" objectid="131357">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1270,33 +1297,6 @@
 									<players>
 									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="60657414" date="2022-05-12" quantity="2" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Tranquility" objecttype="thing" objectid="288513">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="60656251" date="2022-05-12" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Wakanda Forever" objecttype="thing" objectid="280282">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>Zack wins</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
