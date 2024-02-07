@@ -1,5 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="215" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="81111466" date="2024-02-01" quantity="1" length="240" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="216" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="81138444" date="2024-02-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="boardgamearena.com">
+			<item name="Carnegie" objecttype="thing" objectid="310873">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>2nd</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="81111466" date="2024-02-01" quantity="1" length="240" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Summit" objecttype="thing" objectid="1727">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1287,20 +1300,6 @@
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Coleen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="61550490" date="2022-06-16" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Dragonrealm" objecttype="thing" objectid="272993">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
