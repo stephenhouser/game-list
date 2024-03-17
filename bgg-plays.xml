@@ -1,5 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="224" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="82062952" date="2024-02-29" quantity="5" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="227" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="82593452" date="2024-03-15" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Fire Tower" objecttype="thing" objectid="226605">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="82593482" date="2024-03-15" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Justice League: Axis of Villains Strategy Game" objecttype="thing" objectid="141725">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>Lost</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="82593464" date="2024-03-15" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="KISS Tour: The Board Game That Rocks" objecttype="thing" objectid="379637">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="82062952" date="2024-02-29" quantity="5" length="90" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Coup" objecttype="thing" objectid="131357">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -648,7 +688,6 @@
 			<item name="Marvel Mayhem" objecttype="thing" objectid="354342">
 				<subtypes>
 										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
 										<subtype value="boardgameintegration" />
 									</subtypes>
 			</item>
@@ -1252,46 +1291,6 @@
 			<item name="The Isle of Cats" objecttype="thing" objectid="281259">
 				<subtypes>
 										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="63497489" date="2022-08-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Bunny Kingdom" objecttype="thing" objectid="184921">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="63497610" date="2022-08-18" quantity="2" length="90" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Kodama Forest" objecttype="thing" objectid="302933">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="62991685" date="2022-08-04" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="CATAN: Starfarers" objecttype="thing" objectid="282853">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
 									</subtypes>
 			</item>
 									<players>
