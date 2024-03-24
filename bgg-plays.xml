@@ -1,5 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="227" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="82593452" date="2024-03-15" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="229" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="82869184" date="2024-03-21" quantity="12" length="120" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Crokinole" objecttype="thing" objectid="521">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="82869194" date="2024-03-21" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Karen" objecttype="thing" objectid="367583">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="82593452" date="2024-03-15" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Fire Tower" objecttype="thing" objectid="226605">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1271,33 +1299,6 @@
 						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="63724937" date="2022-08-31" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Splendor: Marvel" objecttype="thing" objectid="293296">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="63724920" date="2022-08-25" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="The Isle of Cats" objecttype="thing" objectid="281259">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
