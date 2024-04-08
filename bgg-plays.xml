@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="231" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="83294926" date="2024-04-02" quantity="1" length="30" incomplete="0" nowinstats="0" location="">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="232" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="83447416" date="2024-04-04" quantity="3" length="60" incomplete="0" nowinstats="0" location="Home">
+			<item name="Homeworlds" objecttype="thing" objectid="14634">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="83294926" date="2024-04-02" quantity="1" length="30" incomplete="0" nowinstats="0" location="">
 			<item name="Homeworlds" objecttype="thing" objectid="14634">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1284,20 +1295,6 @@
 						<comments>in honor of The Queen</comments>
 									<players>
 									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="64093909" date="2022-09-14" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Thanos Rising: Avengers Infinity War" objecttype="thing" objectid="248158">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>We won!</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
