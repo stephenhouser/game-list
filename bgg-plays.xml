@@ -1,5 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="244" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="85204376" date="2024-05-27" quantity="3" length="30" incomplete="0" nowinstats="0" location="Heavy Cardboard 7 (2024)">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="245" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="85237399" date="2024-05-28" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Mystic Vale: Essential Edition" objecttype="thing" objectid="308762">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgamecompilation" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="85204376" date="2024-05-27" quantity="3" length="30" incomplete="0" nowinstats="0" location="Heavy Cardboard 7 (2024)">
 			<item name="Crokinole" objecttype="thing" objectid="521">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1285,20 +1297,6 @@
 									<players>
 									<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="66031805" date="2022-11-23" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Wavelength" objecttype="thing" objectid="262543">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
