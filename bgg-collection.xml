@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<items totalitems="79" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse" pubdate="Wed, 26 Jun 2024 00:57:31 +0000">
+<items totalitems="80" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse" pubdate="Thu, 27 Jun 2024 13:13:47 +0000">
 		<item objecttype="thing" objectid="207830" subtype="boardgame" collid="62166461">
 	<name sortindex="1">5-Minute Dungeon</name>
 		<yearpublished>2017</yearpublished>			<image>https://cf.geekdo-images.com/bFZKvxPJ23dzGwgpOg-mIA__original/img/Pi321k82TYCMy0v6GqKZ3LHvBYM=/0x0/filters:format(png)/pic3213622.png</image>
@@ -365,6 +365,12 @@
 		<yearpublished>2018</yearpublished>			<image>https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__original/img/E0s2LvtFA1L5YKk-_44D4u2VD2s=/0x0/filters:format(jpeg)/pic4254509.jpg</image>
 		<thumbnail>https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__thumb/img/ACovMZzGGIsBRyEQXFnsT8282NM=/fit-in/200x150/filters:strip_icc()/pic4254509.jpg</thumbnail>
 			<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2021-11-19 17:31:27" />
+	<numplays>2</numplays>							</item>
+		<item objecttype="thing" objectid="291453" subtype="boardgame" collid="120601989">
+	<name sortindex="1">SCOUT</name>
+		<yearpublished>2019</yearpublished>			<image>https://cf.geekdo-images.com/cf0xxkevbwTGF3VUZymKjg__original/img/vkElrRCPJxy7Q3TH9olpq20egA4=/0x0/filters:format(png)/pic6398727.png</image>
+		<thumbnail>https://cf.geekdo-images.com/cf0xxkevbwTGF3VUZymKjg__thumb/img/NUcMdmZ3_eA1YfIwL8iRgkZKaHw=/fit-in/200x150/filters:strip_icc()/pic6398727.png</thumbnail>
+			<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2024-06-27 08:10:35" />
 	<numplays>2</numplays>							</item>
 		<item objecttype="thing" objectid="320" subtype="boardgame" collid="90875714">
 	<name sortindex="1">Scrabble</name>
