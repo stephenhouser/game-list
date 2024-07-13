@@ -1,5 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="249" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="86240267" date="2024-06-20" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="253" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="86784133" date="2024-07-11" quantity="2" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="City Square Off" objecttype="thing" objectid="91817">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="86784148" date="2024-07-11" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Hues and Cues" objecttype="thing" objectid="302520">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="86784160" date="2024-07-11" quantity="3" length="30" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Jenga" objecttype="thing" objectid="2452">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="86784173" date="2024-07-11" quantity="3" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Skip-Bo" objecttype="thing" objectid="1269">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="86240267" date="2024-06-20" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Rise of Tribes" objecttype="thing" objectid="202583">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1254,56 +1306,6 @@
 						<player username="" userid="0" name="Brie" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="66415790" date="2022-12-07" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="The Isle of Cats" objecttype="thing" objectid="281259">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Brie" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="66123040" date="2022-11-26" quantity="1" length="30" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
-			<item name="Cartagena" objecttype="thing" objectid="826">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="66123072" date="2022-11-26" quantity="1" length="180" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
-			<item name="Caverna: The Cave Farmers" objecttype="thing" objectid="102794">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="66123018" date="2022-11-26" quantity="1" length="30" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
-			<item name="Next Station: London" objecttype="thing" objectid="353545">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
