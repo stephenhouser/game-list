@@ -1,5 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="253" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="86784133" date="2024-07-11" quantity="2" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="255" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="87910638" date="2024-08-08" quantity="2" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Azul" objecttype="thing" objectid="230802">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="87910630" date="2024-08-08" quantity="4" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Mille Bornes" objecttype="thing" objectid="590">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="86784133" date="2024-07-11" quantity="2" length="60" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="City Square Off" objecttype="thing" objectid="91817">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1279,33 +1306,6 @@
 									<player username="" userid="0" name="Brie" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="66619730" date="2022-12-14" quantity="4" length="60" incomplete="0" nowinstats="0" location="The Daniels&apos;">
-			<item name="Bananagrams" objecttype="thing" objectid="27225">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Heather" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="66413768" date="2022-12-07" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Bunny Kingdom" objecttype="thing" objectid="184921">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Brie" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
