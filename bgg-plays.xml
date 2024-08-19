@@ -288,7 +288,7 @@
 						</players>
 					</play>
 	<play id="83729612" date="2024-04-11" quantity="1" length="30" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Timeline: Discoveries" objecttype="thing" objectid="99975">
+			<item name="Timeline: Science &amp; Discoveries" objecttype="thing" objectid="99975">
 				<subtypes>
 										<subtype value="boardgame" />
 										<subtype value="boardgameintegration" />
@@ -510,7 +510,7 @@
 						</players>
 					</play>
 	<play id="81595674" date="2024-02-15" quantity="1" length="30" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Timeline: Discoveries" objecttype="thing" objectid="99975">
+			<item name="Timeline: Science &amp; Discoveries" objecttype="thing" objectid="99975">
 				<subtypes>
 										<subtype value="boardgame" />
 										<subtype value="boardgameintegration" />
