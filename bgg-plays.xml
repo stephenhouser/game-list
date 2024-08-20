@@ -1,5 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="255" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="87910638" date="2024-08-08" quantity="2" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="257" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="88172132" date="2024-08-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Tiki Topple" objecttype="thing" objectid="34373">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="88172128" date="2024-08-15" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Wonder Woman: Challenge of the Amazons" objecttype="thing" objectid="302193">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>lost to circe</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="87910638" date="2024-08-08" quantity="2" length="90" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Azul" objecttype="thing" objectid="230802">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1281,31 +1308,6 @@
 						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="67108318" date="2022-12-23" quantity="1" length="90" incomplete="0" nowinstats="0" location="Home">
-			<item name="Mystic Vale" objecttype="thing" objectid="194607">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Brie" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Heather" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="0xACE" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="66619740" date="2022-12-15" quantity="1" length="90" incomplete="0" nowinstats="0" location="Home">
-			<item name="Mystic Vale" objecttype="thing" objectid="194607">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="" userid="0" name="Brie" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
