@@ -1,5 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="257" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="88172132" date="2024-08-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="258" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="89031188" date="2024-09-13" quantity="2" length="120" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Funkoverse Strategy Game: DC Comics 100" objecttype="thing" objectid="292034">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="88172132" date="2024-08-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Tiki Topple" objecttype="thing" objectid="34373">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1286,19 +1300,6 @@
 					</play>
 	<play id="67122374" date="2022-12-28" quantity="4" length="60" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Crokinole" objecttype="thing" objectid="521">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="67108299" date="2022-12-28" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Mystic Vale" objecttype="thing" objectid="194607">
 				<subtypes>
 										<subtype value="boardgame" />
 									</subtypes>
