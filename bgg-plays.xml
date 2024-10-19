@@ -1,5 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="260" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="89953179" date="2024-10-10" quantity="1" length="180" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="262" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="90202714" date="2024-10-17" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Pandemic" objecttype="thing" objectid="30549">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>lost with 1 left to cure, had 5 cards no turn to trade them in.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="90202686" date="2024-10-17" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="This Game is Bonkers!" objecttype="thing" objectid="1943">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="89953179" date="2024-10-10" quantity="1" length="180" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Mansions of Madness" objecttype="thing" objectid="83330">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1284,32 +1309,6 @@
 						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="69798818" date="2023-03-03" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="CATAN" objecttype="thing" objectid="13">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Heather" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="68668487" date="2023-02-04" quantity="1" length="0" incomplete="1" nowinstats="0" location="Chris&apos; Cave">
-			<item name="Liberty or Death: The American Insurrection" objecttype="thing" objectid="165872">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>Stopped after first winter</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
