@@ -1,5 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="262" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="90202714" date="2024-10-17" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="263" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="90449630" date="2024-10-24" quantity="1" length="150" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="World of Warcraft: Wrath of the Lich King" objecttype="thing" objectid="342848">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+						<comments>surprisingly good and well balanced. we won, barely.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="90202714" date="2024-10-17" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Pandemic" objecttype="thing" objectid="30549">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1294,19 +1309,6 @@
 									<players>
 									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="70067644" date="2023-03-16" quantity="8" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Telestrations" objecttype="thing" objectid="46213">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
