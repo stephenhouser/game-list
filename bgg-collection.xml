@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<items totalitems="85" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse" pubdate="Thu, 07 Nov 2024 01:06:40 +0000">
+<items totalitems="85" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse" pubdate="Sun, 10 Nov 2024 20:21:04 +0000">
 		<item objecttype="thing" objectid="207830" subtype="boardgame" collid="62166461">
 	<name sortindex="1">5-Minute Dungeon</name>
 		<yearpublished>2017</yearpublished>			<image>https://cf.geekdo-images.com/bFZKvxPJ23dzGwgpOg-mIA__original/img/Pi321k82TYCMy0v6GqKZ3LHvBYM=/0x0/filters:format(png)/pic3213622.png</image>
@@ -407,7 +407,7 @@
 		<yearpublished>2009</yearpublished>			<image>https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__original/img/bYLzrwZO9u-3h2wyU-PHc8aTOY4=/0x0/filters:format(jpeg)/pic428828.jpg</image>
 		<thumbnail>https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__thumb/img/o3Bw9heVDJRgPYlI_PksCvLAgnM=/fit-in/200x150/filters:strip_icc()/pic428828.jpg</thumbnail>
 			<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2017-08-05 06:48:47" />
-	<numplays>1</numplays>							</item>
+	<numplays>2</numplays>							</item>
 		<item objecttype="thing" objectid="1917" subtype="boardgame" collid="90875693">
 	<name sortindex="1">Stratego</name>
 		<yearpublished>1946</yearpublished>			<image>https://cf.geekdo-images.com/O3JZyf9nB_2tGl4jpj8SPw__original/img/34QfBCivHif7R6G3MTj-CUJRUAE=/0x0/filters:format(jpeg)/pic25644.jpg</image>
@@ -455,7 +455,7 @@
 		<yearpublished>2008</yearpublished>			<image>https://cf.geekdo-images.com/Nn5x_dnKHypk7W41CtU_uQ__original/img/uMnP-JwplnKUrt9SR6YOOGNE7I0=/0x0/filters:format(jpeg)/pic7277801.jpg</image>
 		<thumbnail>https://cf.geekdo-images.com/Nn5x_dnKHypk7W41CtU_uQ__thumb/img/c4WUmUWj9ZJOFhm65jxCGFS1amc=/fit-in/200x150/filters:strip_icc()/pic7277801.jpg</thumbnail>
 			<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2024-11-03 12:42:32" />
-	<numplays>1</numplays>							</item>
+	<numplays>2</numplays>							</item>
 		<item objecttype="thing" objectid="131325" subtype="boardgame" collid="83155016">
 	<name sortindex="1">Timeline: General Interest</name>
 		<yearpublished>2012</yearpublished>			<image>https://cf.geekdo-images.com/E5jsUTUueJK9cIjqktSPKw__original/img/m42vSZ987QO9w9Rv_aLeCBWmKqM=/0x0/filters:format(png)/pic8286827.png</image>
