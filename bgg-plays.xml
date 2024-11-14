@@ -965,13 +965,6 @@
 									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
-	<play id="72423882" date="2023-05-28" quantity="1" length="30" incomplete="0" nowinstats="0" location="Heavy Cardboard 6 (2023)">
-			<item name="Crokinole" objecttype="thing" objectid="521">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-								</play>
 	<play id="72423945" date="2023-05-28" quantity="1" length="0" incomplete="0" nowinstats="0" location="Heavy Cardboard 6 (2023)">
 			<item name="Crokinole" objecttype="thing" objectid="521">
 				<subtypes>
@@ -983,6 +976,13 @@
 						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
+	<play id="72423882" date="2023-05-28" quantity="1" length="30" incomplete="0" nowinstats="0" location="Heavy Cardboard 6 (2023)">
+			<item name="Crokinole" objecttype="thing" objectid="521">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
 	<play id="72423901" date="2023-05-28" quantity="2" length="30" incomplete="0" nowinstats="0" location="Heavy Cardboard 6 (2023)">
 			<item name="Fuji Flush" objecttype="thing" objectid="203430">
 				<subtypes>
