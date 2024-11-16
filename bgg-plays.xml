@@ -1,5 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="265" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="91107210" date="2024-11-07" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="266" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="91269012" date="2024-11-14" quantity="1" length="180" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Risk: Marvel Cinematic Universe" objecttype="thing" objectid="184337">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="91107210" date="2024-11-07" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Small World" objecttype="thing" objectid="40692">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1302,19 +1315,6 @@
 						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="70290877" date="2023-03-23" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Azul" objecttype="thing" objectid="230802">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
