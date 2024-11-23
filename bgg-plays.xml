@@ -1,5 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="266" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="91269012" date="2024-11-14" quantity="1" length="180" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="269" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="91500186" date="2024-11-21" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Dumb Ways to Die" objecttype="thing" objectid="392173">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Bishop" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="91500178" date="2024-11-21" quantity="5" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="MANTIS" objecttype="thing" objectid="358690">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Bishop" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="91500167" date="2024-11-21" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Skull" objecttype="thing" objectid="92415">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Bishop" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="91269012" date="2024-11-14" quantity="1" length="180" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Risk: Marvel Cinematic Universe" objecttype="thing" objectid="184337">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1267,47 +1311,6 @@
 				<subtypes>
 										<subtype value="boardgame" />
 										<subtype value="boardgameimplementation" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="70691402" date="2023-04-04" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Unexploded Cow" objecttype="thing" objectid="1690">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="70537376" date="2023-03-30" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="5-Minute Dungeon" objecttype="thing" objectid="207830">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="70511019" date="2023-03-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Munchkin Marvel" objecttype="thing" objectid="189848">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-										<subtype value="boardgameintegration" />
 									</subtypes>
 			</item>
 									<players>
