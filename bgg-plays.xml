@@ -1,5 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="281" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="92853092" date="2024-12-26" quantity="4" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="283" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="93308814" date="2025-01-01" quantity="1" length="180" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="HiFi" objecttype="thing" objectid="349575">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Bishop" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="93308828" date="2025-01-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="You Can&#039;t Say &quot;Umm&quot;" objecttype="thing" objectid="397376">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Bishop" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="92853092" date="2024-12-26" quantity="4" length="60" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Anarchy Pancakes" objecttype="thing" objectid="390151">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1286,34 +1314,6 @@
 									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="72314720" date="2023-05-26" quantity="1" length="480" incomplete="1" nowinstats="0" location="Heavy Cardboard 6 (2023)">
-			<item name="Advanced Civilization" objecttype="thing" objectid="177">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameexpansion" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Joe" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Ken" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shray" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="72314739" date="2023-05-26" quantity="1" length="30" incomplete="0" nowinstats="0" location="Heavy Cardboard 6 (2023)">
-			<item name="Cockroach Poker" objecttype="thing" objectid="11971">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
