@@ -1,5 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="285" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="93744814" date="2025-01-09" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="286" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="93996904" date="2025-01-09" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="LIE" objecttype="thing" objectid="161383">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="93744814" date="2025-01-09" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Life of a Chameleon" objecttype="thing" objectid="337638">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1305,17 +1318,6 @@
 									<players>
 									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="72423874" date="2023-05-27" quantity="1" length="30" incomplete="0" nowinstats="0" location="Heavy Cardboard 6 (2023)">
-			<item name="No Thanks!" objecttype="thing" objectid="12942">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
