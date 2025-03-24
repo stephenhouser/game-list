@@ -1,5 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="294" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="96119726" date="2025-03-02" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Daniels&apos;">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="296" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="96964957" date="2025-03-20" quantity="1" length="150" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Rocky Horror Show" objecttype="thing" objectid="404246">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+						<comments>The rules were horrible. Had no idea how to play.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="96964985" date="2025-03-20" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Wednesday: The Card Game" objecttype="thing" objectid="430635">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="96119726" date="2025-03-02" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Daniels&apos;">
 			<item name="Ticket to Ride" objecttype="thing" objectid="9209">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1314,33 +1342,6 @@
 						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="72770583" date="2023-06-01" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Doomlings" objecttype="thing" objectid="324413">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Andy" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="72767587" date="2023-06-01" quantity="1" length="140" incomplete="1" nowinstats="0" location="The Game Room">
-			<item name="Murder Mystery Party Case Files: Killer Startup" objecttype="thing" objectid="376484">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>Sort of incomplete. Zack didn’t want to know the answer.</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Andy" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
