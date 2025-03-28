@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="296" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="96964957" date="2025-03-20" quantity="1" length="150" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="298" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="97099769" date="2025-03-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Azul" objecttype="thing" objectid="230802">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="97099763" date="2025-03-27" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Canopy" objecttype="thing" objectid="295607">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="96964957" date="2025-03-20" quantity="1" length="150" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Rocky Horror Show" objecttype="thing" objectid="404246">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1316,32 +1342,6 @@
 									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="74556303" date="2023-07-27" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Ticket to Ride" objecttype="thing" objectid="9209">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="74556330" date="2023-07-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="UNO: Marvel Heroes" objecttype="thing" objectid="103331">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
