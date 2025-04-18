@@ -1,5 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="298" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="97099769" date="2025-03-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="300" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="97922068" date="2025-04-17" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Cosmic Wimpout" objecttype="thing" objectid="1302">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Bishop" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="97910714" date="2025-04-10" quantity="1" length="180" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Wyrmspan" objecttype="thing" objectid="410201">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="97099769" date="2025-03-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Azul" objecttype="thing" objectid="230802">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1316,32 +1344,6 @@
 						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="76073996" date="2023-09-21" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Horrified: American Monsters" objecttype="thing" objectid="343562">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="74556395" date="2023-08-06" quantity="1" length="300" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
-			<item name="Pendragon: The Fall of Roman Britain" objecttype="thing" objectid="193728">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
