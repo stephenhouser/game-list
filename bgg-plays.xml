@@ -1,5 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="306" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="99267772" date="2025-05-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="Heavy Cardboard 8 (2025)">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="316" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="99404537" date="2025-05-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="Heavy Cardboard 8 (2025)">
+			<item name="Arcs" objecttype="thing" objectid="359871">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="99404570" date="2025-05-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="Heavy Cardboard 8 (2025)">
+			<item name="Power Grid: Outpost" objecttype="thing" objectid="424395">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="99404484" date="2025-05-24" quantity="1" length="0" incomplete="0" nowinstats="0" location="Heavy Cardboard 8 (2025)">
+			<item name="Acquire" objecttype="thing" objectid="5">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="99404497" date="2025-05-24" quantity="1" length="0" incomplete="0" nowinstats="0" location="Heavy Cardboard 8 (2025)">
+			<item name="Heat: Pedal to the Metal" objecttype="thing" objectid="366013">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="99404509" date="2025-05-24" quantity="1" length="0" incomplete="0" nowinstats="0" location="Heavy Cardboard 8 (2025)">
+			<item name="Iberian Gauge" objecttype="thing" objectid="228372">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="99404472" date="2025-05-24" quantity="1" length="0" incomplete="0" nowinstats="0" location="Heavy Cardboard 8 (2025)">
+			<item name="Ra" objecttype="thing" objectid="12">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="99404522" date="2025-05-24" quantity="1" length="0" incomplete="0" nowinstats="0" location="Heavy Cardboard 8 (2025)">
+			<item name="Slay the Spire: The Board Game" objecttype="thing" objectid="338960">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="99404450" date="2025-05-23" quantity="1" length="0" incomplete="0" nowinstats="0" location="Heavy Cardboard 8 (2025)">
+			<item name="Automobile" objecttype="thing" objectid="39351">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="99404426" date="2025-05-23" quantity="1" length="0" incomplete="0" nowinstats="0" location="Heavy Cardboard 8 (2025)">
+			<item name="Can&#039;t Stop" objecttype="thing" objectid="41">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="99404435" date="2025-05-23" quantity="1" length="0" incomplete="0" nowinstats="0" location="Heavy Cardboard 8 (2025)">
+			<item name="Fuji Flush" objecttype="thing" objectid="203430">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="99267772" date="2025-05-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="Heavy Cardboard 8 (2025)">
 			<item name="Cartagena" objecttype="thing" objectid="826">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1203,136 +1291,6 @@
 									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="81138444" date="2024-02-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="boardgamearena.com">
-			<item name="Carnegie" objecttype="thing" objectid="310873">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>2nd</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Russ" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="81111466" date="2024-02-01" quantity="1" length="240" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Summit" objecttype="thing" objectid="1727">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>Played a long deck then stacked it at the end so we could finish</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="80390463" date="2024-01-18" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="CATAN" objecttype="thing" objectid="13">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="80390472" date="2024-01-18" quantity="3" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Red7" objecttype="thing" objectid="161417">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="80054839" date="2024-01-11" quantity="3" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Coup" objecttype="thing" objectid="131357">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="80054821" date="2024-01-11" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Moose Master" objecttype="thing" objectid="380229">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="80054856" date="2024-01-11" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Survive: Escape from Atlantis!" objecttype="thing" objectid="2653">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="79320110" date="2023-12-28" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Mind the Gap" objecttype="thing" objectid="229537">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="79320127" date="2023-12-28" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Wingspan" objecttype="thing" objectid="266192">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameintegration" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="78973265" date="2023-12-14" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Concept" objecttype="thing" objectid="147151">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
