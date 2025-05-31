@@ -1,5 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="316" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="99404537" date="2025-05-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="Heavy Cardboard 8 (2025)">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="317" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="99594941" date="2025-05-30" quantity="1" length="150" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="The Isle of Cats" objecttype="thing" objectid="281259">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="99404537" date="2025-05-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="Heavy Cardboard 8 (2025)">
 			<item name="Arcs" objecttype="thing" objectid="359871">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1270,21 +1283,6 @@
 			<item name="Ticket to Ride" objecttype="thing" objectid="9209">
 				<subtypes>
 										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="81595674" date="2024-02-15" quantity="1" length="30" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Timeline: Science &amp; Discoveries" objecttype="thing" objectid="99975">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameintegration" />
 									</subtypes>
 			</item>
 									<players>
