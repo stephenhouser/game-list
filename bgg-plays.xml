@@ -1,5 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="322" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="100400230" date="2025-06-19" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="323" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="100807561" date="2025-06-26" quantity="2" length="150" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Robo Rally: 30th Anniversary" objecttype="thing" objectid="417203">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="100400230" date="2025-06-19" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Canopy" objecttype="thing" objectid="295607">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1260,20 +1273,6 @@
 					</play>
 	<play id="82062952" date="2024-02-29" quantity="5" length="90" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Coup" objecttype="thing" objectid="131357">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="82062987" date="2024-02-29" quantity="2" length="0" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Cover Your Assets" objecttype="thing" objectid="121193">
 				<subtypes>
 										<subtype value="boardgame" />
 									</subtypes>
