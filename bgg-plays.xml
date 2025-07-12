@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="325" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="100933029" date="2025-07-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="327" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="101188912" date="2025-07-10" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Acquire" objecttype="thing" objectid="5">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="101188920" date="2025-07-10" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Black Mirror: NOSEDIVE" objecttype="thing" objectid="265316">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="100933029" date="2025-07-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Evil Baby Orphanage" objecttype="thing" objectid="128565">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -496,6 +522,7 @@
 			<item name="UNO: Show &#039;Em No Mercy" objecttype="thing" objectid="399088">
 				<subtypes>
 										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
 									</subtypes>
 			</item>
 									<players>
@@ -1255,33 +1282,6 @@
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="82593452" date="2024-03-15" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Fire Tower" objecttype="thing" objectid="226605">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="82593482" date="2024-03-15" quantity="1" length="60" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Justice League: Axis of Villains Strategy Game" objecttype="thing" objectid="141725">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-						<comments>Lost</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
