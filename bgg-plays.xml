@@ -1,5 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="327" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="101188912" date="2025-07-10" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="328" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="101469012" date="2025-07-17" quantity="1" length="180" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Horizons of Spirit Island" objecttype="thing" objectid="367498">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgamecompilation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+						<comments>Very hard to follow directions. Only 3 player game.</comments>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="101188912" date="2025-07-10" quantity="1" length="120" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Acquire" objecttype="thing" objectid="5">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1258,20 +1273,6 @@
 					</play>
 	<play id="82869184" date="2024-03-21" quantity="12" length="120" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Crokinole" objecttype="thing" objectid="521">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="82869194" date="2024-03-21" quantity="1" length="90" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Karen" objecttype="thing" objectid="367583">
 				<subtypes>
 										<subtype value="boardgame" />
 									</subtypes>
