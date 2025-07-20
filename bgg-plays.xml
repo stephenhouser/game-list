@@ -1,5 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="328" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="101469012" date="2025-07-17" quantity="1" length="180" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="331" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="101536162" date="2025-07-19" quantity="1" length="30" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
+			<item name="Exploding Kittens" objecttype="thing" objectid="172225">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="prael" userid="29815" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="101536137" date="2025-07-19" quantity="1" length="30" incomplete="0" nowinstats="0" location="Patrick’s House">
+			<item name="Mille Bornes" objecttype="thing" objectid="590">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="prael" userid="29815" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="101536223" date="2025-07-19" quantity="1" length="60" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
+			<item name="Trekking the National Parks: Second Edition" objecttype="thing" objectid="255708">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="prael" userid="29815" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="101469012" date="2025-07-17" quantity="1" length="180" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="Horizons of Spirit Island" objecttype="thing" objectid="367498">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1242,47 +1281,6 @@
 									<players>
 									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="83294926" date="2024-04-02" quantity="1" length="30" incomplete="0" nowinstats="0" location="">
-			<item name="Homeworlds" objecttype="thing" objectid="14634">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="83294942" date="2024-03-28" quantity="1" length="150" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Lizard Wizard" objecttype="thing" objectid="312767">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-									</subtypes>
-			</item>
-						<comments>Incomplete, saving for next session</comments>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="82869184" date="2024-03-21" quantity="12" length="120" incomplete="0" nowinstats="0" location="The Game Room">
-			<item name="Crokinole" objecttype="thing" objectid="521">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Stephen" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
