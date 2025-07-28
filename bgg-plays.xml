@@ -1,5 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="331" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="101536162" date="2025-07-19" quantity="1" length="30" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="332" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="101836591" date="2025-07-25" quantity="1" length="150" incomplete="0" nowinstats="0" location="">
+			<item name="CATAN" objecttype="thing" objectid="13">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="101536162" date="2025-07-19" quantity="1" length="30" incomplete="0" nowinstats="0" location="Patrick&apos;s House">
 			<item name="Exploding Kittens" objecttype="thing" objectid="172225">
 				<subtypes>
 										<subtype value="boardgame" />
@@ -1270,17 +1283,6 @@
 						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="Bishop" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="83447416" date="2024-04-04" quantity="3" length="60" incomplete="0" nowinstats="0" location="Home">
-			<item name="Homeworlds" objecttype="thing" objectid="14634">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
