@@ -3,6 +3,7 @@
 			<item name="CATAN" objecttype="thing" objectid="13">
 				<subtypes>
 										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
 									</subtypes>
 			</item>
 									<players>
@@ -334,6 +335,7 @@
 			<item name="CATAN" objecttype="thing" objectid="13">
 				<subtypes>
 										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
 									</subtypes>
 			</item>
 									<players>
