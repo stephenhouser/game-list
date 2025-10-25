@@ -1,8 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="340" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-<play id="104401539" date="2025-10-02" quantity="1" length="180" incomplete="0" nowinstats="0" location="The Game Room">
+<?xml version="1.0" encoding="utf-8"?><plays username="0xACE" userid="1524036" total="342" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+<play id="105111228" date="2025-10-23" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Clue" objecttype="thing" objectid="1294">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Bishop" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="105111230" date="2025-10-23" quantity="1" length="0" incomplete="0" nowinstats="0" location="The Game Room">
+			<item name="Fangs" objecttype="thing" objectid="337262">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+									<players>
+									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Zack" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Rob" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Meredith" startposition="" color="" score="" new="0" rating="0" win="0" />
+						<player username="" userid="0" name="Bishop" startposition="" color="" score="" new="0" rating="0" win="0" />
+						</players>
+					</play>
+	<play id="104401539" date="2025-10-02" quantity="1" length="180" incomplete="0" nowinstats="0" location="The Game Room">
 			<item name="RoboRally" objecttype="thing" objectid="18">
 				<subtypes>
 										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
 									</subtypes>
 			</item>
 									<players>
@@ -1256,35 +1286,6 @@
 						<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="mike" startposition="" color="" score="" new="0" rating="0" win="0" />
 						<player username="" userid="0" name="erland" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="85204344" date="2024-05-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="Heavy Cardboard 7 (2024)">
-			<item name="SCOUT" objecttype="thing" objectid="291453">
-				<subtypes>
-										<subtype value="boardgame" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="prael" userid="29815" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="erland" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
-						</players>
-					</play>
-	<play id="85204282" date="2024-05-26" quantity="1" length="120" incomplete="0" nowinstats="0" location="Heavy Cardboard 7 (2024)">
-			<item name="Wallenstein (Second Edition)" objecttype="thing" objectid="109125">
-				<subtypes>
-										<subtype value="boardgame" />
-										<subtype value="boardgameimplementation" />
-									</subtypes>
-			</item>
-									<players>
-									<player username="0xACE" userid="1524036" name="Stephen Houser" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Matt" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="prael" userid="29815" name="Patrick" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="erland" startposition="" color="" score="" new="0" rating="0" win="0" />
-						<player username="" userid="0" name="Shawn" startposition="" color="" score="" new="0" rating="0" win="0" />
 						</players>
 					</play>
 	</plays>
