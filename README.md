@@ -1,4 +1,4 @@
-# The Game Room Log
+# The Game Room Play Log
 
 ## About
 Display list of games played and available in my game room!
