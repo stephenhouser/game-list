@@ -57,20 +57,96 @@ function bgg_uri(game) {
 	return "https://boardgamegeek.com/boardgame/" + game.bgg_id;
 }
 
+// Lazy image loader using IntersectionObserver: when an image element
+// with `data-bgg-id` becomes visible, fetch its thumbnail and set `src`.
+let _bggImageObserver = null;
+
+function loadImageElement(img) {
+	const MAX_RETRIES = 3;
+
+	const id = img.getAttribute('data-bgg-id');
+	if (!id || img.getAttribute('data-bgg-loaded')) {
+		// avoid double-loading
+		return;
+	}
+
+	if (!window.token) {
+		// try again shortly if token isn't ready yet
+		setTimeout(() => loadImageElement(img), 200);
+		return;
+	}
+
+	$.ajax({
+			url: "https://boardgamegeek.com/xmlapi2/thing?id=" + id,
+			headers: { 'Authorization': `Bearer ${window.token}` },
+			dataType: 'xml'})
+		.done(function(xml) {
+			const node = xml.querySelector('thumbnail');
+			if (node) {
+				const src = node.textContent;
+				img.setAttribute('src', src);
+				img.setAttribute('data-bgg-loaded', '1');
+			}})
+		.fail(function(err) {
+			// retry logic with exponential backoff
+			const prev = parseInt(img.getAttribute('data-bgg-retries') || '0', 10);
+			if (prev < MAX_RETRIES) {
+				const next = prev + 1;
+				img.setAttribute('data-bgg-retries', String(next));
+				const delay = 500 * Math.pow(2, prev); // 500ms, 1000ms, 2000ms
+				setTimeout(function() { loadImageElement(img); }, delay);
+			} else {
+				// final failure; leave placeholder
+				img.setAttribute('data-bgg-failed', '1');
+				console.log("failed to load image");
+				console.log(err);
+				// setTimeout(function() { loadImageElement(img); }, 500);
+			}
+		}
+	);
+}
+
+function startObservingImages() {
+	const imgs = document.querySelectorAll('img.game-image[data-bgg-id]');
+	if (!imgs || imgs.length === 0) return;
+
+	if ('IntersectionObserver' in window) {
+		if (!_bggImageObserver) {
+			_bggImageObserver = new IntersectionObserver((entries) => {
+				entries.forEach((entry) => {
+					if (entry.isIntersecting) {
+						startObservingImages.called = true;
+						const img = entry.target;
+						// _bggImageObserver.unobserve(img);
+						loadImageElement(img);
+					}
+				});
+			}, { root: null, rootMargin: '200px', threshold: 0.1 });
+		}
+
+		imgs.forEach((img) => {
+			// only observe elements that haven't been loaded yet
+			if (!img.getAttribute('data-bgg-loaded')) {
+				_bggImageObserver.observe(img);
+			}
+		});
+
+	} else {
+		// No IntersectionObserver: load visible images immediately
+		imgs.forEach((img) => {
+			loadImageElement(img);
+		});
+	}
+}
+
 function bgg_image(game) {
 	const img_id = 'img_' + game.bgg_id;
 	if (game.bgg_id > 0) {
-		$.ajax({
-			url: "https://boardgamegeek.com/xmlapi2/thing?id=" + game.bgg_id,
-			headers: { 'Authorization': `Bearer ${window.token}` }
-		}).done(function(xml) {
-			const src = xml.querySelector('thumbnail').textContent;
-			$('.' + img_id).attr('src', src);
-		}).fail(function(err) {
-			// disable as it's quite verbose when fetching from bgg.
-			// should I make a local cache of images?
-			// console.log(err);
-		});
+		// Render placeholder image element and attach data attribute used by
+		// the IntersectionObserver to kick off fetching when visible.
+		return '<img class="game-image ' + img_id 
+			+ '" data-bgg-id="' + game.bgg_id 
+			+ '" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" />';
 	}
 
 	return '<img class="game-image ' + img_id + '" />';
@@ -169,6 +245,10 @@ $(document).ready(function() {
 		]
 		});
 
+		// Observe images after initial draw and on table redraws
+		startObservingImages();
+		$('#play-list').on('draw.dt', function() { startObservingImages(); });
+
 		$('#game-list').DataTable({
 		responsive: true,
 		ajax: {
@@ -208,6 +288,7 @@ $(document).ready(function() {
 			}
 		]
 		});
+		$('#game-list').on('draw.dt', function() { startObservingImages(); });
 
 		// Collapse navbar on mobile
 		var navMain = $(".navbar-collapse");
