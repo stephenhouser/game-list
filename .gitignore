@@ -1,1 +1,11 @@
 .DS_Store
+
+# wasm build outputs
+/wasm/token_wasm/pkg
+
+# Rust build artifacts
+/wasm/token_wasm/target
+
+# Node / tooling
+node_modules/
+.parcel-cache/

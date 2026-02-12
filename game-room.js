@@ -62,11 +62,14 @@ function bgg_image(game) {
 	if (game.bgg_id > 0) {
 		$.ajax({
 			url: "https://boardgamegeek.com/xmlapi2/thing?id=" + game.bgg_id,
+			headers: { 'Authorization': `Bearer ${window.token}` }
 		}).done(function(xml) {
 			const src = xml.querySelector('thumbnail').textContent;
 			$('.' + img_id).attr('src', src);
 		}).fail(function(err) {
-			console.log(err);
+			// disable as it's quite verbose when fetching from bgg.
+			// should I make a local cache of images?
+			// console.log(err);
 		});
 	}
 
@@ -104,10 +107,25 @@ function addLocalPlays() {
 }
 
 $(document).ready(function() {
-	$('#play-list').DataTable({
+	(async function() {
+		try {
+			const wasm = await import('./wasm/dist/token_wasm.js');
+			await wasm.default();
+			window.token = wasm.get_token();
+		} catch (e) {
+			console.error('WASM token load failed, using fallback', e);
+		}
+
+		initTables();
+	})();
+
+	function initTables() {
+		$('#play-list').DataTable({
 		responsive: true,
 		ajax: {
+			// url: 'bgg-plays.xml',
 			url: `https://boardgamegeek.com/xmlapi2/plays\?username\=${BGG_USER}`,
+			headers: { 'Authorization': `Bearer ${window.token}` },
 			dataType: "text",
 			dataSrc: function(response) {
 				addLocalPlays();
@@ -149,12 +167,14 @@ $(document).ready(function() {
 				}
 			}
 		]
-	});
+		});
 
-	$('#game-list').DataTable({
+		$('#game-list').DataTable({
 		responsive: true,
 		ajax: {
+			// url: 'bgg-collection.xml',
 			url: `https://boardgamegeek.com/xmlapi2/collection\?username\=${BGG_USER}`,
+			headers: { 'Authorization': `Bearer ${window.token}` },
 			dataType: "text",
 			dataSrc: function(response) {
 				addLocalGames();
@@ -187,11 +207,12 @@ $(document).ready(function() {
 				}
 			}
 		]
-	});
+		});
 
-	// Collapse navbar on mobile
-	var navMain = $(".navbar-collapse");
-	navMain.on("click", "a:not([data-toggle])", null, function () {
-		navMain.collapse('hide');
-	});
+		// Collapse navbar on mobile
+		var navMain = $(".navbar-collapse");
+		navMain.on("click", "a:not([data-toggle])", null, function () {
+			navMain.collapse('hide');
+		});
+	}
 });
